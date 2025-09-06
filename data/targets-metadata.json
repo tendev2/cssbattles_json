@@ -1,7 +1,6 @@
 [
   {
     "date": "2025-09-05",
-    "name": "Target2025-09-05",
     "colors": [
       "#CA8E75",
       "#414B81",
@@ -10,12 +9,11 @@
     "file": "solutions-2025-09-05.json"
   },
   {
-    "date": "2025-09-06",
-    "colors": [
-      "#CA8E75",
+    "date": "2025-09-04",
+    "colors": ["#CA8E75",
       "#414B81",
       "#FEFF58"
     ],
-    "file": "solutions-2025-09-06.json"
+    "file": "solutions-2025-09-04.json"
   }
 ]
