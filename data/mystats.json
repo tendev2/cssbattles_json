@@ -1,0 +1,1699 @@
+{
+  "baseUrl": "https://cssbattle.dev/targets/",
+  "challenges": [
+    {
+      "target": "1",
+      "image": "1.png",
+      "matchStatus": "✅",
+      "score": "839.08",
+      "chars": "54"
+    },
+    {
+      "target": "2",
+      "image": "2.png",
+      "matchStatus": "✅",
+      "score": "740.2",
+      "chars": "110"
+    },
+    {
+      "target": "3",
+      "image": "3.png",
+      "matchStatus": "✅",
+      "score": "727.45",
+      "chars": "120"
+    },
+    {
+      "target": "4",
+      "image": "4.png",
+      "matchStatus": "✅",
+      "score": "691.3",
+      "chars": "155"
+    },
+    {
+      "target": "5",
+      "image": "5.png",
+      "matchStatus": "✅",
+      "score": "676.91",
+      "chars": "173"
+    },
+    {
+      "target": "6",
+      "image": "6.png",
+      "matchStatus": "✅",
+      "score": "723.86",
+      "chars": "123"
+    },
+    {
+      "target": "7",
+      "image": "7.png",
+      "matchStatus": "✅",
+      "score": "723.86",
+      "chars": "123"
+    },
+    {
+      "target": "8",
+      "image": "8.png",
+      "matchStatus": "✅",
+      "score": "637.99",
+      "chars": "247"
+    },
+    {
+      "target": "9",
+      "image": "9.png",
+      "matchStatus": "✅",
+      "score": "674.74",
+      "chars": "176"
+    },
+    {
+      "target": "10",
+      "image": "10.png",
+      "matchStatus": "✅",
+      "score": "627.47",
+      "chars": "281"
+    },
+    {
+      "target": "11",
+      "image": "11.png",
+      "matchStatus": "✅",
+      "score": "646.85",
+      "chars": "225"
+    },
+    {
+      "target": "12",
+      "image": "12.png",
+      "matchStatus": "✅",
+      "score": "622.49",
+      "chars": "302"
+    },
+    {
+      "target": "13",
+      "image": "13.png",
+      "matchStatus": "✅",
+      "score": "815.28",
+      "chars": "65"
+    },
+    {
+      "target": "14",
+      "image": "14.png",
+      "matchStatus": "✅",
+      "score": "646.85",
+      "chars": "225"
+    },
+    {
+      "target": "15",
+      "image": "15.png",
+      "matchStatus": "✅",
+      "score": "740.2",
+      "chars": "110"
+    },
+    {
+      "target": "16",
+      "image": "16.png",
+      "matchStatus": "✅",
+      "score": "696.67",
+      "chars": "149"
+    },
+    {
+      "target": "17",
+      "image": "17.png",
+      "matchStatus": "✅",
+      "score": "624.98",
+      "chars": "291"
+    },
+    {
+      "target": "18",
+      "image": "18.png",
+      "matchStatus": "✅",
+      "score": "674.74",
+      "chars": "176"
+    },
+    {
+      "target": "19",
+      "image": "19.png",
+      "matchStatus": "✅",
+      "score": "640.23",
+      "chars": "241"
+    },
+    {
+      "target": "20",
+      "image": "20.png",
+      "matchStatus": "✅",
+      "score": "646.41",
+      "chars": "226"
+    },
+    {
+      "target": "21",
+      "image": "21.png",
+      "matchStatus": "✅",
+      "score": "621.86",
+      "chars": "305"
+    },
+    {
+      "target": "22",
+      "image": "22.png",
+      "matchStatus": "✅",
+      "score": "690.43",
+      "chars": "156"
+    },
+    {
+      "target": "23",
+      "image": "23.png",
+      "matchStatus": "✅",
+      "score": "747.04",
+      "chars": "105"
+    },
+    {
+      "target": "24",
+      "image": "24.png",
+      "matchStatus": "✅",
+      "score": "674.74",
+      "chars": "176"
+    },
+    {
+      "target": "25",
+      "image": "25.png",
+      "matchStatus": "✅",
+      "score": "648.67",
+      "chars": "221"
+    },
+    {
+      "target": "26",
+      "image": "26.png",
+      "matchStatus": "✅",
+      "score": "667.94",
+      "chars": "186"
+    },
+    {
+      "target": "27",
+      "image": "27.png",
+      "matchStatus": "✅",
+      "score": "706.34",
+      "chars": "139"
+    },
+    {
+      "target": "28",
+      "image": "28.png",
+      "matchStatus": "✅",
+      "score": "654.57",
+      "chars": "209"
+    },
+    {
+      "target": "29",
+      "image": "29.png",
+      "matchStatus": "✅",
+      "score": "699.48",
+      "chars": "146"
+    },
+    {
+      "target": "30",
+      "image": "30.png",
+      "matchStatus": "✅",
+      "score": "774.56",
+      "chars": "87"
+    },
+    {
+      "target": "31",
+      "image": "31.png",
+      "matchStatus": "✅",
+      "score": "719.23",
+      "chars": "127"
+    },
+    {
+      "target": "32",
+      "image": "32.png",
+      "matchStatus": "✅",
+      "score": "703.34",
+      "chars": "142"
+    },
+    {
+      "target": "33",
+      "image": "33.png",
+      "matchStatus": "✅",
+      "score": "645.1",
+      "chars": "229"
+    },
+    {
+      "target": "34",
+      "image": "34.png",
+      "matchStatus": "✅",
+      "score": "683",
+      "chars": "165"
+    },
+    {
+      "target": "35",
+      "image": "35.png",
+      "matchStatus": "✅",
+      "score": "656.69",
+      "chars": "205"
+    },
+    {
+      "target": "36",
+      "image": "36.png",
+      "matchStatus": "✅",
+      "score": "690.43",
+      "chars": "156"
+    },
+    {
+      "target": "37",
+      "image": "37.png",
+      "matchStatus": "✅",
+      "score": "666.66",
+      "chars": "188"
+    },
+    {
+      "target": "38",
+      "image": "38.png",
+      "matchStatus": "✅",
+      "score": "708.39",
+      "chars": "137"
+    },
+    {
+      "target": "39",
+      "image": "39.png",
+      "matchStatus": "✅",
+      "score": "664.17",
+      "chars": "192"
+    },
+    {
+      "target": "40",
+      "image": "40.png",
+      "matchStatus": "✅",
+      "score": "721.52",
+      "chars": "125"
+    },
+    {
+      "target": "41",
+      "image": "41.png",
+      "matchStatus": "✅",
+      "score": "617.72",
+      "chars": "327"
+    },
+    {
+      "target": "42",
+      "image": "42.png",
+      "matchStatus": "✅",
+      "score": "618.59",
+      "chars": "322"
+    },
+    {
+      "target": "43",
+      "image": "43.png",
+      "matchStatus": "✅",
+      "score": "696.67",
+      "chars": "149"
+    },
+    {
+      "target": "44",
+      "image": "44.png",
+      "matchStatus": "✅",
+      "score": "701.39",
+      "chars": "144"
+    },
+    {
+      "target": "45",
+      "image": "45.png",
+      "matchStatus": "✅",
+      "score": "652.53",
+      "chars": "213"
+    },
+    {
+      "target": "46",
+      "image": "46.png",
+      "matchStatus": "✅",
+      "score": "676.18",
+      "chars": "174"
+    },
+    {
+      "target": "47",
+      "image": "47.png",
+      "matchStatus": "✅",
+      "score": "611.43",
+      "chars": "373"
+    },
+    {
+      "target": "48",
+      "image": "48.png",
+      "matchStatus": "✅",
+      "score": "676.18",
+      "chars": "174"
+    },
+    {
+      "target": "49",
+      "image": "49.png",
+      "matchStatus": "✅",
+      "score": "622.92",
+      "chars": "300"
+    },
+    {
+      "target": "50",
+      "image": "50.png",
+      "matchStatus": "✅",
+      "score": "605.54",
+      "chars": "449"
+    },
+    {
+      "target": "51",
+      "image": "51.png",
+      "matchStatus": "✅",
+      "score": "615.81",
+      "chars": "339"
+    },
+    {
+      "target": "52",
+      "image": "52.png",
+      "matchStatus": "✅",
+      "score": "611.32",
+      "chars": "374"
+    },
+    {
+      "target": "53",
+      "image": "53.png",
+      "matchStatus": "✅",
+      "score": "711.53",
+      "chars": "134"
+    },
+    {
+      "target": "54",
+      "image": "54.png",
+      "matchStatus": "✅",
+      "score": "607.03",
+      "chars": "424"
+    },
+    {
+      "target": "55",
+      "image": "55.png",
+      "matchStatus": "✅",
+      "score": "632",
+      "chars": "265"
+    },
+    {
+      "target": "56",
+      "image": "56.png",
+      "matchStatus": "✅",
+      "score": "611.22",
+      "chars": "375"
+    },
+    {
+      "target": "57",
+      "image": "57.png",
+      "matchStatus": "✅",
+      "score": "614.1",
+      "chars": "351"
+    },
+    {
+      "target": "58",
+      "image": "58.png",
+      "matchStatus": "✅",
+      "score": "606.64",
+      "chars": "430"
+    },
+    {
+      "target": "59",
+      "image": "59.png",
+      "matchStatus": "✅",
+      "score": "618.94",
+      "chars": "320"
+    },
+    {
+      "target": "60",
+      "image": "60.png",
+      "matchStatus": "✅",
+      "score": "642.59",
+      "chars": "235"
+    },
+    {
+      "target": "61",
+      "image": "61.png",
+      "matchStatus": "✅",
+      "score": "600.65",
+      "chars": "674"
+    },
+    {
+      "target": "62",
+      "image": "62.png",
+      "matchStatus": "✅",
+      "score": "633.24",
+      "chars": "261"
+    },
+    {
+      "target": "63",
+      "image": "63.png",
+      "matchStatus": "✅",
+      "score": "632.62",
+      "chars": "263"
+    },
+    {
+      "target": "64",
+      "image": "64.png",
+      "matchStatus": "✅",
+      "score": "625.7",
+      "chars": "288"
+    },
+    {
+      "target": "65",
+      "image": "65.png",
+      "matchStatus": "✅",
+      "score": "611",
+      "chars": "377"
+    },
+    {
+      "target": "66",
+      "image": "66.png",
+      "matchStatus": "✅",
+      "score": "603.93",
+      "chars": "485"
+    },
+    {
+      "target": "67",
+      "image": "67.png",
+      "matchStatus": "✅",
+      "score": "662.96",
+      "chars": "194"
+    },
+    {
+      "target": "68",
+      "image": "68.png",
+      "matchStatus": "✅",
+      "score": "660.6",
+      "chars": "198"
+    },
+    {
+      "target": "69",
+      "image": "69.png",
+      "matchStatus": "✅",
+      "score": "604.08",
+      "chars": "481"
+    },
+    {
+      "target": "70",
+      "image": "70.png",
+      "matchStatus": "✅",
+      "score": "607.1",
+      "chars": "423"
+    },
+    {
+      "target": "71",
+      "image": "71.png",
+      "matchStatus": "✅",
+      "score": "601.89",
+      "chars": "562"
+    },
+    {
+      "target": "72",
+      "image": "72.png",
+      "matchStatus": "✅",
+      "score": "604.89",
+      "chars": "462"
+    },
+    {
+      "target": "73",
+      "image": "73.png",
+      "matchStatus": "✅",
+      "score": "600.75",
+      "chars": "659"
+    },
+    {
+      "target": "74",
+      "image": "74.png",
+      "matchStatus": "✅",
+      "score": "600.02",
+      "chars": "1066"
+    },
+    {
+      "target": "75",
+      "image": "75.png",
+      "matchStatus": "✅",
+      "score": "602.87",
+      "chars": "518"
+    },
+    {
+      "target": "76",
+      "image": "76.png",
+      "matchStatus": "✅",
+      "score": "610.29",
+      "chars": "384"
+    },
+    {
+      "target": "77",
+      "image": "77.png",
+      "matchStatus": "✅",
+      "score": "626.2",
+      "chars": "286"
+    },
+    {
+      "target": "78",
+      "image": "78.png",
+      "matchStatus": "✅",
+      "score": "604.2",
+      "chars": "478"
+    },
+    {
+      "target": "79",
+      "image": "79.png",
+      "matchStatus": "🔴 99.9%",
+      "score": "597.36",
+      "chars": "421"
+    },
+    {
+      "target": "80",
+      "image": "80.png",
+      "matchStatus": "✅",
+      "score": "618.24",
+      "chars": "324"
+    },
+    {
+      "target": "81",
+      "image": "81.png",
+      "matchStatus": "✅",
+      "score": "642.59",
+      "chars": "235"
+    },
+    {
+      "target": "82",
+      "image": "82.png",
+      "matchStatus": "✅",
+      "score": "656.15",
+      "chars": "206"
+    },
+    {
+      "target": "83",
+      "image": "83.png",
+      "matchStatus": "✅",
+      "score": "647.3",
+      "chars": "224"
+    },
+    {
+      "target": "84",
+      "image": "84.png",
+      "matchStatus": "✅",
+      "score": "669.92",
+      "chars": "183"
+    },
+    {
+      "target": "85",
+      "image": "85.png",
+      "matchStatus": "✅",
+      "score": "680.66",
+      "chars": "168"
+    },
+    {
+      "target": "86",
+      "image": "86.png",
+      "matchStatus": "✅",
+      "score": "661.18",
+      "chars": "197"
+    },
+    {
+      "target": "87",
+      "image": "87.png",
+      "matchStatus": "✅",
+      "score": "633.24",
+      "chars": "261"
+    },
+    {
+      "target": "88",
+      "image": "88.png",
+      "matchStatus": "✅",
+      "score": "652.03",
+      "chars": "214"
+    },
+    {
+      "target": "89",
+      "image": "89.png",
+      "matchStatus": "✅",
+      "score": "691.3",
+      "chars": "155"
+    },
+    {
+      "target": "90",
+      "image": "90.png",
+      "matchStatus": "✅",
+      "score": "689.58",
+      "chars": "157"
+    },
+    {
+      "target": "91",
+      "image": "91.png",
+      "matchStatus": "✅",
+      "score": "680.66",
+      "chars": "168"
+    },
+    {
+      "target": "92",
+      "image": "92.png",
+      "matchStatus": "✅",
+      "score": "629.93",
+      "chars": "272"
+    },
+    {
+      "target": "93",
+      "image": "93.png",
+      "matchStatus": "✅",
+      "score": "607.03",
+      "chars": "424"
+    },
+    {
+      "target": "94",
+      "image": "94.png",
+      "matchStatus": "✅",
+      "score": "678.39",
+      "chars": "171"
+    },
+    {
+      "target": "95",
+      "image": "95.png",
+      "matchStatus": "✅",
+      "score": "644.67",
+      "chars": "230"
+    },
+    {
+      "target": "96",
+      "image": "96.png",
+      "matchStatus": "✅",
+      "score": "626.96",
+      "chars": "283"
+    },
+    {
+      "target": "97",
+      "image": "97.png",
+      "matchStatus": "✅",
+      "score": "604.37",
+      "chars": "474"
+    },
+    {
+      "target": "98",
+      "image": "98.png",
+      "matchStatus": "✅",
+      "score": "616.42",
+      "chars": "335"
+    },
+    {
+      "target": "99",
+      "image": "99.png",
+      "matchStatus": "✅",
+      "score": "650.56",
+      "chars": "217"
+    },
+    {
+      "target": "100",
+      "image": "100.png",
+      "matchStatus": "🔴 99.8%",
+      "score": "592.63",
+      "chars": "1781"
+    },
+    {
+      "target": "101",
+      "image": "101.png",
+      "matchStatus": "✅",
+      "score": "618.24",
+      "chars": "324"
+    },
+    {
+      "target": "102",
+      "image": "102.png",
+      "matchStatus": "✅",
+      "score": "601.31",
+      "chars": "600"
+    },
+    {
+      "target": "103",
+      "image": "103.png",
+      "matchStatus": "🔴 99.9%",
+      "score": "597.15",
+      "chars": "524"
+    },
+    {
+      "target": "104",
+      "image": "104.png",
+      "matchStatus": "✅",
+      "score": "608.92",
+      "chars": "399"
+    },
+    {
+      "target": "105",
+      "image": "105.png",
+      "matchStatus": "✅",
+      "score": "608.84",
+      "chars": "400"
+    },
+    {
+      "target": "106",
+      "image": "106.png",
+      "matchStatus": "✅",
+      "score": "623.14",
+      "chars": "299"
+    },
+    {
+      "target": "107",
+      "image": "107.png",
+      "matchStatus": "✅",
+      "score": "602.66",
+      "chars": "526"
+    },
+    {
+      "target": "108",
+      "image": "108.png",
+      "matchStatus": "✅",
+      "score": "602.93",
+      "chars": "516"
+    },
+    {
+      "target": "109",
+      "image": "109.png",
+      "matchStatus": "✅",
+      "score": "727.45",
+      "chars": "120"
+    },
+    {
+      "target": "110",
+      "image": "110.png",
+      "matchStatus": "✅",
+      "score": "647.3",
+      "chars": "224"
+    },
+    {
+      "target": "111",
+      "image": "111.png",
+      "matchStatus": "✅",
+      "score": "678.39",
+      "chars": "171"
+    },
+    {
+      "target": "112",
+      "image": "112.png",
+      "matchStatus": "✅",
+      "score": "693.95",
+      "chars": "152"
+    },
+    {
+      "target": "113",
+      "image": "113.png",
+      "matchStatus": "✅",
+      "score": "747.04",
+      "chars": "105"
+    },
+    {
+      "target": "114",
+      "image": "114.png",
+      "matchStatus": "✅",
+      "score": "722.68",
+      "chars": "124"
+    },
+    {
+      "target": "115",
+      "image": "115.png",
+      "matchStatus": "✅",
+      "score": "649.61",
+      "chars": "219"
+    },
+    {
+      "target": "116",
+      "image": "116.png",
+      "matchStatus": "✅",
+      "score": "637.99",
+      "chars": "247"
+    },
+    {
+      "target": "117",
+      "image": "117.png",
+      "matchStatus": "✅",
+      "score": "611.43",
+      "chars": "373"
+    },
+    {
+      "target": "118",
+      "image": "118.png",
+      "matchStatus": "✅",
+      "score": "632.93",
+      "chars": "262"
+    },
+    {
+      "target": "119",
+      "image": "119.png",
+      "matchStatus": "✅",
+      "score": "611.22",
+      "chars": "375"
+    },
+    {
+      "target": "120",
+      "image": "120.png",
+      "matchStatus": "✅",
+      "score": "606.9",
+      "chars": "426"
+    },
+    {
+      "target": "121",
+      "image": "121.png",
+      "matchStatus": "✅",
+      "score": "629.65",
+      "chars": "273"
+    },
+    {
+      "target": "122",
+      "image": "122.png",
+      "matchStatus": "✅",
+      "score": "619.13",
+      "chars": "319"
+    },
+    {
+      "target": "123",
+      "image": "123.png",
+      "matchStatus": "✅",
+      "score": "633.88",
+      "chars": "259"
+    },
+    {
+      "target": "124",
+      "image": "124.png",
+      "matchStatus": "✅",
+      "score": "602.24",
+      "chars": "544"
+    },
+    {
+      "target": "125",
+      "image": "125.png",
+      "matchStatus": "✅",
+      "score": "617.89",
+      "chars": "326"
+    },
+    {
+      "target": "126",
+      "image": "126.png",
+      "matchStatus": "✅",
+      "score": "626.45",
+      "chars": "285"
+    },
+    {
+      "target": "127",
+      "image": "127.png",
+      "matchStatus": "✅",
+      "score": "630.22",
+      "chars": "271"
+    },
+    {
+      "target": "128",
+      "image": "128.png",
+      "matchStatus": "✅",
+      "score": "656.15",
+      "chars": "206"
+    },
+    {
+      "target": "129",
+      "image": "129.png",
+      "matchStatus": "✅",
+      "score": "679.9",
+      "chars": "169"
+    },
+    {
+      "target": "130",
+      "image": "130.png",
+      "matchStatus": "✅",
+      "score": "728.67",
+      "chars": "119"
+    },
+    {
+      "target": "131",
+      "image": "131.png",
+      "matchStatus": "✅",
+      "score": "655.09",
+      "chars": "208"
+    },
+    {
+      "target": "132",
+      "image": "132.png",
+      "matchStatus": "✅",
+      "score": "643.83",
+      "chars": "232"
+    },
+    {
+      "target": "133",
+      "image": "133.png",
+      "matchStatus": "✅",
+      "score": "607.23",
+      "chars": "421"
+    },
+    {
+      "target": "134",
+      "image": "134.png",
+      "matchStatus": "✅",
+      "score": "728.67",
+      "chars": "119"
+    },
+    {
+      "target": "135",
+      "image": "135.png",
+      "matchStatus": "✅",
+      "score": "649.61",
+      "chars": "219"
+    },
+    {
+      "target": "136",
+      "image": "136.png",
+      "matchStatus": "✅",
+      "score": "679.14",
+      "chars": "170"
+    },
+    {
+      "target": "137",
+      "image": "137.png",
+      "matchStatus": "✅",
+      "score": "705.33",
+      "chars": "140"
+    },
+    {
+      "target": "138",
+      "image": "138.png",
+      "matchStatus": "✅",
+      "score": "669.92",
+      "chars": "183"
+    },
+    {
+      "target": "139",
+      "image": "139.png",
+      "matchStatus": "✅",
+      "score": "681.43",
+      "chars": "167"
+    },
+    {
+      "target": "140",
+      "image": "140.png",
+      "matchStatus": "✅",
+      "score": "698.53",
+      "chars": "147"
+    },
+    {
+      "target": "141",
+      "image": "141.png",
+      "matchStatus": "✅",
+      "score": "661.77",
+      "chars": "196"
+    },
+    {
+      "target": "142",
+      "image": "142.png",
+      "matchStatus": "✅",
+      "score": "751.31",
+      "chars": "102"
+    },
+    {
+      "target": "143",
+      "image": "143.png",
+      "matchStatus": "✅",
+      "score": "801.39",
+      "chars": "72"
+    },
+    {
+      "target": "144",
+      "image": "144.png",
+      "matchStatus": "✅",
+      "score": "663.56",
+      "chars": "193"
+    },
+    {
+      "target": "145",
+      "image": "145.png",
+      "matchStatus": "✅",
+      "score": "705.33",
+      "chars": "140"
+    },
+    {
+      "target": "146",
+      "image": "146.png",
+      "matchStatus": "✅",
+      "score": "710.47",
+      "chars": "135"
+    },
+    {
+      "target": "147",
+      "image": "147.png",
+      "matchStatus": "✅",
+      "score": "693.06",
+      "chars": "153"
+    },
+    {
+      "target": "148",
+      "image": "148.png",
+      "matchStatus": "✅",
+      "score": "695.76",
+      "chars": "150"
+    },
+    {
+      "target": "149",
+      "image": "149.png",
+      "matchStatus": "✅",
+      "score": "623.81",
+      "chars": "296"
+    },
+    {
+      "target": "150",
+      "image": "150.png",
+      "matchStatus": "✅",
+      "score": "693.95",
+      "chars": "152"
+    },
+    {
+      "target": "151",
+      "image": "151.png",
+      "matchStatus": "✅",
+      "score": "623.81",
+      "chars": "296"
+    },
+    {
+      "target": "152",
+      "image": "152.png",
+      "matchStatus": "✅",
+      "score": "601.62",
+      "chars": "578"
+    },
+    {
+      "target": "153",
+      "image": "153.png",
+      "matchStatus": "✅",
+      "score": "625.95",
+      "chars": "287"
+    },
+    {
+      "target": "154",
+      "image": "154.png",
+      "matchStatus": "✅",
+      "score": "634.21",
+      "chars": "258"
+    },
+    {
+      "target": "155",
+      "image": "155.png",
+      "matchStatus": "✅",
+      "score": "666.66",
+      "chars": "188"
+    },
+    {
+      "target": "156",
+      "image": "156.png",
+      "matchStatus": "✅",
+      "score": "616.27",
+      "chars": "336"
+    },
+    {
+      "target": "157",
+      "image": "157.png",
+      "matchStatus": "✅",
+      "score": "609.91",
+      "chars": "388"
+    },
+    {
+      "target": "158",
+      "image": "158.png",
+      "matchStatus": "✅",
+      "score": "664.78",
+      "chars": "191"
+    },
+    {
+      "target": "159",
+      "image": "159.png",
+      "matchStatus": "✅",
+      "score": "774.56",
+      "chars": "87"
+    },
+    {
+      "target": "160",
+      "image": "160.png",
+      "matchStatus": "✅",
+      "score": "741.54",
+      "chars": "109"
+    },
+    {
+      "target": "161",
+      "image": "161.png",
+      "matchStatus": "✅",
+      "score": "714.77",
+      "chars": "131"
+    },
+    {
+      "target": "162",
+      "image": "162.png",
+      "matchStatus": "✅",
+      "score": "744.26",
+      "chars": "107"
+    },
+    {
+      "target": "163",
+      "image": "163.png",
+      "matchStatus": "✅",
+      "score": "684.6",
+      "chars": "163"
+    },
+    {
+      "target": "164",
+      "image": "164.png",
+      "matchStatus": "✅",
+      "score": "637.99",
+      "chars": "247"
+    },
+    {
+      "target": "165",
+      "image": "165.png",
+      "matchStatus": "✅",
+      "score": "653.54",
+      "chars": "211"
+    },
+    {
+      "target": "166",
+      "image": "166.png",
+      "matchStatus": "✅",
+      "score": "632.93",
+      "chars": "262"
+    },
+    {
+      "target": "167",
+      "image": "167.png",
+      "matchStatus": "✅",
+      "score": "643",
+      "chars": "234"
+    },
+    {
+      "target": "168",
+      "image": "168.png",
+      "matchStatus": "✅",
+      "score": "690.43",
+      "chars": "156"
+    },
+    {
+      "target": "169",
+      "image": "169.png",
+      "matchStatus": "✅",
+      "score": "621.04",
+      "chars": "309"
+    },
+    {
+      "target": "170",
+      "image": "170.png",
+      "matchStatus": "✅",
+      "score": "664.78",
+      "chars": "191"
+    },
+    {
+      "target": "171",
+      "image": "171.png",
+      "matchStatus": "✅",
+      "score": "635.2",
+      "chars": "255"
+    },
+    {
+      "target": "172",
+      "image": "172.png",
+      "matchStatus": "✅",
+      "score": "631.4",
+      "chars": "267"
+    },
+    {
+      "target": "173",
+      "image": "173.png",
+      "matchStatus": "✅",
+      "score": "631.1",
+      "chars": "268"
+    },
+    {
+      "target": "174",
+      "image": "174.png",
+      "matchStatus": "✅",
+      "score": "624.74",
+      "chars": "292"
+    },
+    {
+      "target": "175",
+      "image": "175.png",
+      "matchStatus": "✅",
+      "score": "605.65",
+      "chars": "447"
+    },
+    {
+      "target": "176",
+      "image": "176.png",
+      "matchStatus": "✅",
+      "score": "614.23",
+      "chars": "350"
+    },
+    {
+      "target": "177",
+      "image": "177.png",
+      "matchStatus": "✅",
+      "score": "600.94",
+      "chars": "635"
+    },
+    {
+      "target": "178",
+      "image": "178.png",
+      "matchStatus": "✅",
+      "score": "620.64",
+      "chars": "311"
+    },
+    {
+      "target": "179",
+      "image": "179.png",
+      "matchStatus": "✅",
+      "score": "744.26",
+      "chars": "107"
+    },
+    {
+      "target": "180",
+      "image": "180.png",
+      "matchStatus": "✅",
+      "score": "781.34",
+      "chars": "83"
+    },
+    {
+      "target": "181",
+      "image": "181.png",
+      "matchStatus": "✅",
+      "score": "683.8",
+      "chars": "164"
+    },
+    {
+      "target": "182",
+      "image": "182.png",
+      "matchStatus": "✅",
+      "score": "715.87",
+      "chars": "130"
+    },
+    {
+      "target": "183",
+      "image": "183.png",
+      "matchStatus": "✅",
+      "score": "625.22",
+      "chars": "290"
+    },
+    {
+      "target": "184",
+      "image": "184.png",
+      "matchStatus": "✅",
+      "score": "643",
+      "chars": "234"
+    },
+    {
+      "target": "185",
+      "image": "185.png",
+      "matchStatus": "🔴 97.5%",
+      "score": "549.38",
+      "chars": "395"
+    },
+    {
+      "target": "186",
+      "image": "186.png",
+      "matchStatus": "✅",
+      "score": "631.1",
+      "chars": "268"
+    },
+    {
+      "target": "187",
+      "image": "187.png",
+      "matchStatus": "🔴 99.6%",
+      "score": "591.87",
+      "chars": "162"
+    },
+    {
+      "target": "188",
+      "image": "188.png",
+      "matchStatus": "✅",
+      "score": "631.4",
+      "chars": "267"
+    },
+    {
+      "target": "189",
+      "image": "189.png",
+      "matchStatus": "🔴 99.9%",
+      "score": "597.77",
+      "chars": "215"
+    },
+    {
+      "target": "190",
+      "image": "190.png",
+      "matchStatus": "✅",
+      "score": "645.53",
+      "chars": "228"
+    },
+    {
+      "target": "191",
+      "image": "191.png",
+      "matchStatus": "🔴 83.3%",
+      "score": "265.48",
+      "chars": "274"
+    },
+    {
+      "target": "192",
+      "image": "192.png",
+      "matchStatus": "✅",
+      "score": "685.41",
+      "chars": "162"
+    },
+    {
+      "target": "193",
+      "image": "193.png",
+      "matchStatus": "🔴 96.3%",
+      "score": "525.9",
+      "chars": "129"
+    },
+    {
+      "target": "194",
+      "image": "194.png",
+      "matchStatus": "✅",
+      "score": "623.81",
+      "chars": "296"
+    },
+    {
+      "target": "195",
+      "image": "195.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "196",
+      "image": "196.png",
+      "matchStatus": "✅",
+      "score": "622.92",
+      "chars": "300"
+    },
+    {
+      "target": "197",
+      "image": "197.png",
+      "matchStatus": "🔴 88.6%",
+      "score": "371.74",
+      "chars": "172"
+    },
+    {
+      "target": "198",
+      "image": "198.png",
+      "matchStatus": "✅",
+      "score": "616.9",
+      "chars": "332"
+    },
+    {
+      "target": "199",
+      "image": "199.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "200",
+      "image": "200.png",
+      "matchStatus": "✅",
+      "score": "665.4",
+      "chars": "190"
+    },
+    {
+      "target": "201",
+      "image": "201.png",
+      "matchStatus": "✅",
+      "score": "636.22",
+      "chars": "252"
+    },
+    {
+      "target": "202",
+      "image": "202.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "203",
+      "image": "203.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "204",
+      "image": "204.png",
+      "matchStatus": "🔴 99.6%",
+      "score": "591.65",
+      "chars": "272"
+    },
+    {
+      "target": "205",
+      "image": "205.png",
+      "matchStatus": "🔴 99.9%",
+      "score": "597.37",
+      "chars": "416"
+    },
+    {
+      "target": "206",
+      "image": "206.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "207",
+      "image": "207.png",
+      "matchStatus": "✅",
+      "score": "679.9",
+      "chars": "169"
+    },
+    {
+      "target": "208",
+      "image": "208.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "209",
+      "image": "209.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "210",
+      "image": "210.png",
+      "matchStatus": "✅",
+      "score": "669.25",
+      "chars": "184"
+    },
+    {
+      "target": "211",
+      "image": "211.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "212",
+      "image": "212.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "213",
+      "image": "213.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "214",
+      "image": "214.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "215",
+      "image": "215.png",
+      "matchStatus": "🔴 99.9%",
+      "score": "597.59",
+      "chars": "304"
+    },
+    {
+      "target": "216",
+      "image": "216.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "217",
+      "image": "217.png",
+      "matchStatus": "✅",
+      "score": "690.43",
+      "chars": "156"
+    },
+    {
+      "target": "218",
+      "image": "218.png",
+      "matchStatus": "✅",
+      "score": "622.49",
+      "chars": "302"
+    },
+    {
+      "target": "219",
+      "image": "219.png",
+      "matchStatus": "✅",
+      "score": "622.07",
+      "chars": "304"
+    },
+    {
+      "target": "220",
+      "image": "220.png",
+      "matchStatus": "✅",
+      "score": "630.8",
+      "chars": "269"
+    },
+    {
+      "target": "221",
+      "image": "221.png",
+      "matchStatus": "✅",
+      "score": "662.96",
+      "chars": "194"
+    },
+    {
+      "target": "222",
+      "image": "222.png",
+      "matchStatus": "✅",
+      "score": "626.45",
+      "chars": "285"
+    },
+    {
+      "target": "223",
+      "image": "223.png",
+      "matchStatus": "✅",
+      "score": "624.74",
+      "chars": "292"
+    },
+    {
+      "target": "224",
+      "image": "224.png",
+      "matchStatus": "✅",
+      "score": "626.2",
+      "chars": "286"
+    },
+    {
+      "target": "225",
+      "image": "225.png",
+      "matchStatus": "✅",
+      "score": "634.54",
+      "chars": "257"
+    },
+    {
+      "target": "226",
+      "image": "226.png",
+      "matchStatus": "✅",
+      "score": "667.94",
+      "chars": "186"
+    },
+    {
+      "target": "227",
+      "image": "227.png",
+      "matchStatus": "✅",
+      "score": "648.67",
+      "chars": "221"
+    },
+    {
+      "target": "228",
+      "image": "228.png",
+      "matchStatus": "🔴 95.2%",
+      "score": "503.76",
+      "chars": "197"
+    },
+    {
+      "target": "229",
+      "image": "229.png",
+      "matchStatus": "✅",
+      "score": "664.17",
+      "chars": "192"
+    },
+    {
+      "target": "230",
+      "image": "230.png",
+      "matchStatus": "✅",
+      "score": "644.25",
+      "chars": "231"
+    },
+    {
+      "target": "231",
+      "image": "231.png",
+      "matchStatus": "🔴 77.2%",
+      "score": "192.97",
+      "chars": "153"
+    },
+    {
+      "target": "232",
+      "image": "232.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "233",
+      "image": "233.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "234",
+      "image": "234.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "235",
+      "image": "235.png",
+      "matchStatus": "✅",
+      "score": "612.57",
+      "chars": "363"
+    },
+    {
+      "target": "236",
+      "image": "236.png",
+      "matchStatus": "🔴 99.9%",
+      "score": "597.74",
+      "chars": "227"
+    },
+    {
+      "target": "237",
+      "image": "237.png",
+      "matchStatus": "🔴 89.1%",
+      "score": "381.72",
+      "chars": "186"
+    },
+    {
+      "target": "238",
+      "image": "238.png",
+      "matchStatus": "🔴 91.9%",
+      "score": "437.56",
+      "chars": "281"
+    },
+    {
+      "target": "239",
+      "image": "239.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "240",
+      "image": "240.png",
+      "matchStatus": "-",
+      "score": "-",
+      "chars": "-"
+    },
+    {
+      "target": "241",
+      "image": "241.png",
+      "matchStatus": "✅",
+      "score": "629.09",
+      "chars": "275"
+    },
+    {
+      "target": "242",
+      "image": "242.png",
+      "matchStatus": "🔴 99.9%",
+      "score": "597.48",
+      "chars": "358"
+    }
+  ]
+}
