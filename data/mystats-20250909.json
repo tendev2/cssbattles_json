@@ -1643,8 +1643,8 @@
       "target": "235",
       "image": "235.png",
       "matchStatus": "✅",
-      "score": "612.57",
-      "chars": "363"
+      "score": "613.06",
+      "chars": "359"
     },
     {
       "target": "236",
@@ -1696,5 +1696,5 @@
       "chars": "358"
     }
   ],
-  "lastUpdated": "2025-09-09T16:53:11.212Z"
+  "lastUpdated": "2025-09-09T19:53:51.733Z"
 }
