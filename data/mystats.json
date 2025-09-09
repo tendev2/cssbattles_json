@@ -1649,9 +1649,9 @@
     {
       "target": "236",
       "image": "236.png",
-      "matchStatus": "🔴 99.9%",
-      "score": "597.74",
-      "chars": "227"
+      "matchStatus": "✅",
+      "score": "667.3",
+      "chars": "187"
     },
     {
       "target": "237",
@@ -1696,5 +1696,5 @@
       "chars": "358"
     }
   ],
-  "lastUpdated": "2025-09-09T20:15:25.181Z"
+  "lastUpdated": "2025-09-09T20:16:29.230Z"
 }
