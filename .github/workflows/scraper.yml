@@ -21,9 +21,23 @@ jobs:
         run: npm install
 
       - name: Run scraper
-        run: node scripts/scraper.js
+        id: scraper
+        run: |
+          set -e
+          node scripts/scraper.js > scraper.log 2>&1 || echo "Scraper failed" > scraper_error.log
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-logs
+          path: |
+            scraper.log
+            scraper_error.log
+          retention-days: 7
 
       - name: Upload all JSON artifacts
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: cssbattle-solutions
@@ -31,6 +45,7 @@ jobs:
           retention-days: 7
 
       - name: Upload metadata separately
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: cssbattle-metadata
@@ -38,6 +53,7 @@ jobs:
           retention-days: 7
 
       - name: Commit and push changes
+        if: success()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
