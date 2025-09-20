@@ -109,12 +109,19 @@
   },
   {
     "date": "2025-09-16",
-    "colors": ["#152844","#A34F46","#FFFFFF"],
+    "colors": [
+      "#152844",
+      "#A34F46",
+      "#FFFFFF"
+    ],
     "file": "solutions-2025-09-16.json"
   },
   {
     "date": "2025-09-17",
-    "colors": ["#4A9A86","#FAE29E"],
+    "colors": [
+      "#4A9A86",
+      "#FAE29E"
+    ],
     "file": "solutions-2025-09-17.json"
   },
   {
@@ -124,5 +131,13 @@
       "#23384B"
     ],
     "file": "solutions-2025-09-18.json"
+  },
+  {
+    "date": "2025-09-19",
+    "colors": [
+      "#EDDF5A",
+      "#3E4071"
+    ],
+    "file": "solutions-2025-09-19.json"
   }
 ]
