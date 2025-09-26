@@ -1,11 +1,1 @@
-{
-  "name": "cssbattles-scraper",
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "scrape": "node scripts/scraper.js"
-  },
-  "dependencies": {
-    "puppeteer": "^23.3.0"
-  }
-}
+
