@@ -1,19 +1,3047 @@
 [
   {
-    "date": "2025-09-24",
+    "date": "2025-09-03",
     "colors": [
-      "#7DDDEB",
-      "#9A5DCB"
+      "#243D83",
+      "#FFFFFF"
     ],
-    "file": "solutions-2025-09-24.json"
+    "file": "solutions-2025-09-03.json"
   },
   {
-    "date": "2025-09-25",
+    "date": "2025-09-02",
     "colors": [
-      "#B0C1F0",
-      "#FAE29E",
+      "#5DBCF9",
+      "#FFFFCD"
+    ],
+    "file": "solutions-2025-09-02.json"
+  },
+  {
+    "date": "2025-09-01",
+    "colors": [
+      "#E25C57",
+      "#F4DA64"
+    ],
+    "file": "solutions-2025-09-01.json"
+  },
+  {
+    "date": "2025-09-00",
+    "colors": [
+      "#E8AD6D",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-09-00.json"
+  },
+  {
+    "date": "2025-08-30",
+    "colors": [
+      "#A1E8A7",
+      "#D2495C"
+    ],
+    "file": "solutions-2025-08-30.json"
+  },
+  {
+    "date": "2025-08-29",
+    "colors": [
+      "#F1E1BE",
+      "#7C7565"
+    ],
+    "file": "solutions-2025-08-29.json"
+  },
+  {
+    "date": "2025-08-28",
+    "colors": [
+      "#B6EBE7",
+      "#724FAF"
+    ],
+    "file": "solutions-2025-08-28.json"
+  },
+  {
+    "date": "2025-08-26",
+    "colors": [
+      "#F0CD48",
+      "#243D83",
+      "#6592CF"
+    ],
+    "file": "solutions-2025-08-26.json"
+  },
+  {
+    "date": "2025-08-25",
+    "colors": [
+      "#3A335A",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-08-25.json"
+  },
+  {
+    "date": "2025-08-24",
+    "colors": [
+      "#62E383",
+      "#3B240C"
+    ],
+    "file": "solutions-2025-08-24.json"
+  },
+  {
+    "date": "2025-08-19",
+    "colors": [
+      "#FCEBEB",
+      "#DE6B67"
+    ],
+    "file": "solutions-2025-08-19.json"
+  },
+  {
+    "date": "2025-08-18",
+    "colors": [
+      "#E8AD6D",
+      "#3B240C"
+    ],
+    "file": "solutions-2025-08-18.json"
+  },
+  {
+    "date": "2025-08-17",
+    "colors": [
+      "#41434B",
+      "#FFFFFF",
+      "#D95F5B"
+    ],
+    "file": "solutions-2025-08-17.json"
+  },
+  {
+    "date": "2025-08-15",
+    "colors": [
+      "#FFEFF2",
+      "#4F77FF"
+    ],
+    "file": "solutions-2025-08-15.json"
+  },
+  {
+    "date": "2025-08-14",
+    "colors": [
+      "#F3AC3C",
+      "#000000"
+    ],
+    "file": "solutions-2025-08-14.json"
+  },
+  {
+    "date": "2025-08-12",
+    "colors": [
+      "#7E6293",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-08-12.json"
+  },
+  {
+    "date": "2025-08-11",
+    "colors": [
+      "#B673A6",
+      "#619EBF",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2025-08-11.json"
+  },
+  {
+    "date": "2025-08-10",
+    "colors": [
+      "#328FC1",
+      "#243D83",
+      "#EBE77E"
+    ],
+    "file": "solutions-2025-08-10.json"
+  },
+  {
+    "date": "2025-08-09",
+    "colors": [
+      "#FADE8B",
+      "#31938C",
+      "#135853"
+    ],
+    "file": "solutions-2025-08-09.json"
+  },
+  {
+    "date": "2025-08-07",
+    "colors": [
+      "#F88889",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-08-07.json"
+  },
+  {
+    "date": "2025-08-06",
+    "colors": [
+      "#88EBF8",
+      "#23384B"
+    ],
+    "file": "solutions-2025-08-06.json"
+  },
+  {
+    "date": "2025-08-05",
+    "colors": [
+      "#423F36",
+      "#FEFF58",
+      "#D94E4E"
+    ],
+    "file": "solutions-2025-08-05.json"
+  },
+  {
+    "date": "2025-08-04",
+    "colors": [
+      "#D94E4E",
+      "#EBE77E"
+    ],
+    "file": "solutions-2025-08-04.json"
+  },
+  {
+    "date": "2025-08-03",
+    "colors": [
+      "#243D83",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-08-03.json"
+  },
+  {
+    "date": "2025-07-30",
+    "colors": [
+      "#48BF7D",
+      "#FEFF58",
       "#3E5AA9"
     ],
-    "file": "solutions-2025-09-25.json"
+    "file": "solutions-2025-07-30.json"
+  },
+  {
+    "date": "2025-07-29",
+    "colors": [
+      "#D94E4E",
+      "#010201",
+      "#FEFF58"
+    ],
+    "file": "solutions-2025-07-29.json"
+  },
+  {
+    "date": "2025-07-28",
+    "colors": [
+      "#EBE77E",
+      "#7E6293"
+    ],
+    "file": "solutions-2025-07-28.json"
+  },
+  {
+    "date": "2025-07-26",
+    "colors": [
+      "#FFFFFF",
+      "#9E8DEC",
+      "#6855BF"
+    ],
+    "file": "solutions-2025-07-26.json"
+  },
+  {
+    "date": "2025-07-25",
+    "colors": [
+      "#FADE8B",
+      "#556D7F",
+      "#D24444"
+    ],
+    "file": "solutions-2025-07-25.json"
+  },
+  {
+    "date": "2025-07-24",
+    "colors": [
+      "#328FC1",
+      "#3D2525"
+    ],
+    "file": "solutions-2025-07-24.json"
+  },
+  {
+    "date": "2025-07-22",
+    "colors": [
+      "#EEEEEE",
+      "#246541",
+      "#439E6B"
+    ],
+    "file": "solutions-2025-07-22.json"
+  },
+  {
+    "date": "2025-07-21",
+    "colors": [
+      "#423F36",
+      "#BBBBBB",
+      "#EC2F28"
+    ],
+    "file": "solutions-2025-07-21.json"
+  },
+  {
+    "date": "2025-07-20",
+    "colors": [
+      "#FADE8B",
+      "#48BF7D",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-07-20.json"
+  },
+  {
+    "date": "2025-07-19",
+    "colors": [
+      "#B6EBE7",
+      "#5E2BB7",
+      "#9382E4"
+    ],
+    "file": "solutions-2025-07-19.json"
+  },
+  {
+    "date": "2025-07-16",
+    "colors": [
+      "#32295A",
+      "#48BF7D"
+    ],
+    "file": "solutions-2025-07-16.json"
+  },
+  {
+    "date": "2025-07-15",
+    "colors": [
+      "#2F5A76",
+      "#F5BB60"
+    ],
+    "file": "solutions-2025-07-15.json"
+  },
+  {
+    "date": "2025-07-14",
+    "colors": [
+      "#CEEDFF",
+      "#05476C",
+      "#2BBBF3"
+    ],
+    "file": "solutions-2025-07-14.json"
+  },
+  {
+    "date": "2025-07-13",
+    "colors": [
+      "#48BF7D",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-07-13.json"
+  },
+  {
+    "date": "2025-07-12",
+    "colors": [
+      "#504B72",
+      "#FFFBCC"
+    ],
+    "file": "solutions-2025-07-12.json"
+  },
+  {
+    "date": "2025-07-11",
+    "colors": [
+      "#F7BED9",
+      "#EC0076",
+      "#F069AB"
+    ],
+    "file": "solutions-2025-07-11.json"
+  },
+  {
+    "date": "2025-07-08",
+    "colors": [
+      "#085328",
+      "#8CB457"
+    ],
+    "file": "solutions-2025-07-08.json"
+  },
+  {
+    "date": "2025-07-07",
+    "colors": [
+      "#48BF7D",
+      "#32295A"
+    ],
+    "file": "solutions-2025-07-07.json"
+  },
+  {
+    "date": "2025-07-06",
+    "colors": [
+      "#556D7F",
+      "#FADE8B"
+    ],
+    "file": "solutions-2025-07-06.json"
+  },
+  {
+    "date": "2025-07-01",
+    "colors": [
+      "#51A499",
+      "#23384B"
+    ],
+    "file": "solutions-2025-07-01.json"
+  },
+  {
+    "date": "2025-06-29",
+    "colors": [
+      "#394257",
+      "#48BF7D",
+      "#D24444"
+    ],
+    "file": "solutions-2025-06-29.json"
+  },
+  {
+    "date": "2025-06-28",
+    "colors": [
+      "#FFFFFF",
+      "#9CBBC2",
+      "#5A8D9A"
+    ],
+    "file": "solutions-2025-06-28.json"
+  },
+  {
+    "date": "2025-06-27",
+    "colors": [
+      "#394257",
+      "#D24444"
+    ],
+    "file": "solutions-2025-06-27.json"
+  },
+  {
+    "date": "2025-06-26",
+    "colors": [
+      "#243D83",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2025-06-26.json"
+  },
+  {
+    "date": "2025-06-25",
+    "colors": [
+      "#B6EBE7",
+      "#9382E4",
+      "#5E2BB7"
+    ],
+    "file": "solutions-2025-06-25.json"
+  },
+  {
+    "date": "2025-06-24",
+    "colors": [
+      "#F7BED9",
+      "#EC007B"
+    ],
+    "file": "solutions-2025-06-24.json"
+  },
+  {
+    "date": "2025-06-21",
+    "colors": [
+      "#6592CF",
+      "#F7CB71",
+      "#FEFEFF"
+    ],
+    "file": "solutions-2025-06-21.json"
+  },
+  {
+    "date": "2025-06-17",
+    "colors": [
+      "#F4DCBF",
+      "#556D7F",
+      "#3C342A"
+    ],
+    "file": "solutions-2025-06-17.json"
+  },
+  {
+    "date": "2025-06-15",
+    "colors": [
+      "#97AE41",
+      "#334F9F"
+    ],
+    "file": "solutions-2025-06-15.json"
+  },
+  {
+    "date": "2025-06-14",
+    "colors": [
+      "#D95362",
+      "#EBF6F0"
+    ],
+    "file": "solutions-2025-06-14.json"
+  },
+  {
+    "date": "2025-06-10",
+    "colors": [
+      "#EEB850",
+      "#243D83"
+    ],
+    "file": "solutions-2025-06-10.json"
+  },
+  {
+    "date": "2025-06-03",
+    "colors": [
+      "#D95362",
+      "#C0D6E7",
+      "#2D3464"
+    ],
+    "file": "solutions-2025-06-03.json"
+  },
+  {
+    "date": "2025-06-00",
+    "colors": [
+      "#F3AC3C",
+      "#282828"
+    ],
+    "file": "solutions-2025-06-00.json"
+  },
+  {
+    "date": "2025-05-24",
+    "colors": [
+      "#D95F5B",
+      "#282828"
+    ],
+    "file": "solutions-2025-05-24.json"
+  },
+  {
+    "date": "2025-05-23",
+    "colors": [
+      "#BFE33A",
+      "#5A9F48"
+    ],
+    "file": "solutions-2025-05-23.json"
+  },
+  {
+    "date": "2025-05-21",
+    "colors": [
+      "#EDDF5A",
+      "#C53025"
+    ],
+    "file": "solutions-2025-05-21.json"
+  },
+  {
+    "date": "2025-05-20",
+    "colors": [
+      "#282828",
+      "#F9DDC6"
+    ],
+    "file": "solutions-2025-05-20.json"
+  },
+  {
+    "date": "2025-05-18",
+    "colors": [
+      "#F3EAD2",
+      "#4C455B",
+      "#D96C7B"
+    ],
+    "file": "solutions-2025-05-18.json"
+  },
+  {
+    "date": "2025-05-17",
+    "colors": [
+      "#51A499",
+      "#EAC049",
+      "#282828"
+    ],
+    "file": "solutions-2025-05-17.json"
+  },
+  {
+    "date": "2025-05-16",
+    "colors": [
+      "#5A9F48",
+      "#000000",
+      "#F4DA64"
+    ],
+    "file": "solutions-2025-05-16.json"
+  },
+  {
+    "date": "2025-05-12",
+    "colors": [
+      "#ED6A9D",
+      "#30383F"
+    ],
+    "file": "solutions-2025-05-12.json"
+  },
+  {
+    "date": "2025-05-11",
+    "colors": [
+      "#4C6B50",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2025-05-11.json"
+  },
+  {
+    "date": "2025-05-10",
+    "colors": [
+      "#594C94",
+      "#F9DDC6"
+    ],
+    "file": "solutions-2025-05-10.json"
+  },
+  {
+    "date": "2025-05-06",
+    "colors": [
+      "#EBF6F0",
+      "#4E4B44",
+      "#4A9A86"
+    ],
+    "file": "solutions-2025-05-06.json"
+  },
+  {
+    "date": "2025-05-05",
+    "colors": [
+      "#E3DCD1",
+      "#D95F5B"
+    ],
+    "file": "solutions-2025-05-05.json"
+  },
+  {
+    "date": "2025-05-04",
+    "colors": [
+      "#FAE29E",
+      "#4A9A86",
+      "#4C4C6B"
+    ],
+    "file": "solutions-2025-05-04.json"
+  },
+  {
+    "date": "2025-04-28",
+    "colors": [
+      "#66DBB8",
+      "#4C4C6B"
+    ],
+    "file": "solutions-2025-04-28.json"
+  },
+  {
+    "date": "2025-04-27",
+    "colors": [
+      "#CAEBE4",
+      "#5AA4B7"
+    ],
+    "file": "solutions-2025-04-27.json"
+  },
+  {
+    "date": "2025-04-26",
+    "colors": [
+      "#282828",
+      "#EA3323"
+    ],
+    "file": "solutions-2025-04-26.json"
+  },
+  {
+    "date": "2025-04-23",
+    "colors": [
+      "#68D0DF",
+      "#FFFFFF",
+      "#9A5DCB"
+    ],
+    "file": "solutions-2025-04-23.json"
+  },
+  {
+    "date": "2025-04-22",
+    "colors": [
+      "#5A9F48",
+      "#2A2753"
+    ],
+    "file": "solutions-2025-04-22.json"
+  },
+  {
+    "date": "2025-04-21",
+    "colors": [
+      "#4C455B",
+      "#D96C7B",
+      "#8AB8B6"
+    ],
+    "file": "solutions-2025-04-21.json"
+  },
+  {
+    "date": "2025-04-19",
+    "colors": [
+      "#FEFAED",
+      "#F9D9BF",
+      "#D4A29F"
+    ],
+    "file": "solutions-2025-04-19.json"
+  },
+  {
+    "date": "2025-04-18",
+    "colors": [
+      "#2D3464",
+      "#646DAB",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2025-04-18.json"
+  },
+  {
+    "date": "2025-04-15",
+    "colors": [
+      "#4C3AB3",
+      "#D96E9F"
+    ],
+    "file": "solutions-2025-04-15.json"
+  },
+  {
+    "date": "2025-04-14",
+    "colors": [
+      "#343400",
+      "#469DBA"
+    ],
+    "file": "solutions-2025-04-14.json"
+  },
+  {
+    "date": "2025-04-13",
+    "colors": [
+      "#E3CC9E",
+      "#2A2753"
+    ],
+    "file": "solutions-2025-04-13.json"
+  },
+  {
+    "date": "2025-04-12",
+    "colors": [
+      "#E3CC9E",
+      "#995757",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-04-12.json"
+  },
+  {
+    "date": "2025-04-11",
+    "colors": [
+      "#A4C5BD",
+      "#D96C7B",
+      "#8D424D"
+    ],
+    "file": "solutions-2025-04-11.json"
+  },
+  {
+    "date": "2025-04-06",
+    "colors": [
+      "#2A2753",
+      "#C3C441",
+      "#E25C57"
+    ],
+    "file": "solutions-2025-04-06.json"
+  },
+  {
+    "date": "2025-04-04",
+    "colors": [
+      "#FFEEEE",
+      "#56AE68"
+    ],
+    "file": "solutions-2025-04-04.json"
+  },
+  {
+    "date": "2025-04-03",
+    "colors": [
+      "#F5E3B5",
+      "#469DBA"
+    ],
+    "file": "solutions-2025-04-03.json"
+  },
+  {
+    "date": "2025-03-26",
+    "colors": [
+      "#2D3464",
+      "#DAB897"
+    ],
+    "file": "solutions-2025-03-26.json"
+  },
+  {
+    "date": "2025-03-24",
+    "colors": [
+      "#E3516E",
+      "#66284A"
+    ],
+    "file": "solutions-2025-03-24.json"
+  },
+  {
+    "date": "2025-03-22",
+    "colors": [
+      "#FADE8B",
+      "#E3516E"
+    ],
+    "file": "solutions-2025-03-22.json"
+  },
+  {
+    "date": "2025-03-21",
+    "colors": [
+      "#A9FFFC",
+      "#1A353C",
+      "#31798F"
+    ],
+    "file": "solutions-2025-03-21.json"
+  },
+  {
+    "date": "2025-03-20",
+    "colors": [
+      "#D4ED33",
+      "#1A353C"
+    ],
+    "file": "solutions-2025-03-20.json"
+  },
+  {
+    "date": "2025-03-19",
+    "colors": [
+      "#66DBB8",
+      "#1A353C"
+    ],
+    "file": "solutions-2025-03-19.json"
+  },
+  {
+    "date": "2025-03-18",
+    "colors": [
+      "#EAC049",
+      "#51A499"
+    ],
+    "file": "solutions-2025-03-18.json"
+  },
+  {
+    "date": "2025-03-17",
+    "colors": [
+      "#F1DDF5",
+      "#65A3C5",
+      "#000000"
+    ],
+    "file": "solutions-2025-03-17.json"
+  },
+  {
+    "date": "2025-03-11",
+    "colors": [
+      "#323130",
+      "#00B0C8"
+    ],
+    "file": "solutions-2025-03-11.json"
+  },
+  {
+    "date": "2025-03-10",
+    "colors": [
+      "#F58220",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-03-10.json"
+  },
+  {
+    "date": "2025-03-08",
+    "colors": [
+      "#498488",
+      "#D99795",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2025-03-08.json"
+  },
+  {
+    "date": "2025-03-06",
+    "colors": [
+      "#E8AD6D",
+      "#DE6B67"
+    ],
+    "file": "solutions-2025-03-06.json"
+  },
+  {
+    "date": "2025-03-05",
+    "colors": [
+      "#6255AA",
+      "#D96E9F"
+    ],
+    "file": "solutions-2025-03-05.json"
+  },
+  {
+    "date": "2025-03-04",
+    "colors": [
+      "#4A9A86",
+      "#EBF6F0"
+    ],
+    "file": "solutions-2025-03-04.json"
+  },
+  {
+    "date": "2025-03-03",
+    "colors": [
+      "#EAC049",
+      "#343D42"
+    ],
+    "file": "solutions-2025-03-03.json"
+  },
+  {
+    "date": "2025-03-02",
+    "colors": [
+      "#84B9C7",
+      "#1A353C"
+    ],
+    "file": "solutions-2025-03-02.json"
+  },
+  {
+    "date": "2025-03-01",
+    "colors": [
+      "#5AED9C",
+      "#4B4D88"
+    ],
+    "file": "solutions-2025-03-01.json"
+  },
+  {
+    "date": "2025-03-00",
+    "colors": [
+      "#EBE77E",
+      "#DE817E"
+    ],
+    "file": "solutions-2025-03-00.json"
+  },
+  {
+    "date": "2025-02-26",
+    "colors": [
+      "#46BA67",
+      "#4C4C6B",
+      "#FAE29E"
+    ],
+    "file": "solutions-2025-02-26.json"
+  },
+  {
+    "date": "2025-02-25",
+    "colors": [
+      "#F2EAA8",
+      "#3F4869"
+    ],
+    "file": "solutions-2025-02-25.json"
+  },
+  {
+    "date": "2025-02-24",
+    "colors": [
+      "#343D42",
+      "#328FC1",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2025-02-24.json"
+  },
+  {
+    "date": "2025-02-23",
+    "colors": [
+      "#EAC049",
+      "#51A499"
+    ],
+    "file": "solutions-2025-02-23.json"
+  },
+  {
+    "date": "2025-02-22",
+    "colors": [
+      "#96551A",
+      "#EA9A52"
+    ],
+    "file": "solutions-2025-02-22.json"
+  },
+  {
+    "date": "2025-02-19",
+    "colors": [
+      "#D95362",
+      "#FDFFE9"
+    ],
+    "file": "solutions-2025-02-19.json"
+  },
+  {
+    "date": "2025-02-18",
+    "colors": [
+      "#46BA67",
+      "#D9D9D9",
+      "#343D42"
+    ],
+    "file": "solutions-2025-02-18.json"
+  },
+  {
+    "date": "2025-02-16",
+    "colors": [
+      "#EED9D9",
+      "#668884"
+    ],
+    "file": "solutions-2025-02-16.json"
+  },
+  {
+    "date": "2025-02-15",
+    "colors": [
+      "#FADE8B",
+      "#61A74E"
+    ],
+    "file": "solutions-2025-02-15.json"
+  },
+  {
+    "date": "2025-02-11",
+    "colors": [
+      "#FBFDB7",
+      "#46BA67",
+      "#D95362"
+    ],
+    "file": "solutions-2025-02-11.json"
+  },
+  {
+    "date": "2025-02-09",
+    "colors": [
+      "#6592CF",
+      "#243D83"
+    ],
+    "file": "solutions-2025-02-09.json"
+  },
+  {
+    "date": "2025-02-08",
+    "colors": [
+      "#EDECC1",
+      "#CC5252"
+    ],
+    "file": "solutions-2025-02-08.json"
+  },
+  {
+    "date": "2025-02-05",
+    "colors": [
+      "#BFE33A",
+      "#5A9F48"
+    ],
+    "file": "solutions-2025-02-05.json"
+  },
+  {
+    "date": "2025-02-04",
+    "colors": [
+      "#FFFFFF",
+      "#4B4D88"
+    ],
+    "file": "solutions-2025-02-04.json"
+  },
+  {
+    "date": "2025-02-03",
+    "colors": [
+      "#9076D8",
+      "#F5E3B5"
+    ],
+    "file": "solutions-2025-02-03.json"
+  },
+  {
+    "date": "2025-02-01",
+    "colors": [
+      "#EBE77E",
+      "#DE817E"
+    ],
+    "file": "solutions-2025-02-01.json"
+  },
+  {
+    "date": "2025-02-02",
+    "colors": [
+      "#EED9D9",
+      "#469DBA",
+      "#46487C"
+    ],
+    "file": "solutions-2025-02-02.json"
+  },
+  {
+    "date": "2025-01-29",
+    "colors": [
+      "#FADE8B",
+      "#61A74E"
+    ],
+    "file": "solutions-2025-01-29.json"
+  },
+  {
+    "date": "2025-01-28",
+    "colors": [
+      "#D08825",
+      "#2D3464",
+      "#FADE8B"
+    ],
+    "file": "solutions-2025-01-28.json"
+  },
+  {
+    "date": "2025-01-26",
+    "colors": [
+      "#AC342E",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-01-26.json"
+  },
+  {
+    "date": "2025-01-25",
+    "colors": [
+      "#EA9A52",
+      "#435998",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-01-25.json"
+  },
+  {
+    "date": "2025-01-24",
+    "colors": [
+      "#E0E7FF",
+      "#2D3464",
+      "#328FC1"
+    ],
+    "file": "solutions-2025-01-24.json"
+  },
+  {
+    "date": "2025-01-22",
+    "colors": [
+      "#DE6B67",
+      "#EDDF5A"
+    ],
+    "file": "solutions-2025-01-22.json"
+  },
+  {
+    "date": "2025-01-21",
+    "colors": [
+      "#2F5A76",
+      "#BFE33A"
+    ],
+    "file": "solutions-2025-01-21.json"
+  },
+  {
+    "date": "2025-01-20",
+    "colors": [
+      "#594C94",
+      "#F9DDC6"
+    ],
+    "file": "solutions-2025-01-20.json"
+  },
+  {
+    "date": "2025-01-14",
+    "colors": [
+      "#DE817E",
+      "#EBE77E"
+    ],
+    "file": "solutions-2025-01-14.json"
+  },
+  {
+    "date": "2025-01-13",
+    "colors": [
+      "#587795",
+      "#E8AD6D"
+    ],
+    "file": "solutions-2025-01-13.json"
+  },
+  {
+    "date": "2025-01-12",
+    "colors": [
+      "#668884",
+      "#EED9D9"
+    ],
+    "file": "solutions-2025-01-12.json"
+  },
+  {
+    "date": "2025-01-08",
+    "colors": [
+      "#D95362",
+      "#2D3464"
+    ],
+    "file": "solutions-2025-01-08.json"
+  },
+  {
+    "date": "2025-01-07",
+    "colors": [
+      "#4A9A86",
+      "#4C4C6B",
+      "#FAE29E"
+    ],
+    "file": "solutions-2025-01-07.json"
+  },
+  {
+    "date": "2025-01-06",
+    "colors": [
+      "#B8DCF0",
+      "#3F4869"
+    ],
+    "file": "solutions-2025-01-06.json"
+  },
+  {
+    "date": "2025-01-05",
+    "colors": [
+      "#B8F4A6",
+      "#3BA44D"
+    ],
+    "file": "solutions-2025-01-05.json"
+  },
+  {
+    "date": "2025-01-04",
+    "colors": [
+      "#2F5A76",
+      "#F3AC3C"
+    ],
+    "file": "solutions-2025-01-04.json"
+  },
+  {
+    "date": "2025-01-01",
+    "colors": [
+      "#3F9461",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2025-01-01.json"
+  },
+  {
+    "date": "2024-12-30",
+    "colors": [
+      "#3F4869",
+      "#EFCB5C",
+      "#978963"
+    ],
+    "file": "solutions-2024-12-30.json"
+  },
+  {
+    "date": "2024-12-28",
+    "colors": [
+      "#3F4869",
+      "#EA9A52",
+      "#AA3440"
+    ],
+    "file": "solutions-2024-12-28.json"
+  },
+  {
+    "date": "2024-12-25",
+    "colors": [
+      "#D96C7B",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2024-12-25.json"
+  },
+  {
+    "date": "2024-12-24",
+    "colors": [
+      "#6D62BA",
+      "#A1E6E4"
+    ],
+    "file": "solutions-2024-12-24.json"
+  },
+  {
+    "date": "2024-12-21",
+    "colors": [
+      "#EA9A52",
+      "#435998"
+    ],
+    "file": "solutions-2024-12-21.json"
+  },
+  {
+    "date": "2024-12-18",
+    "colors": [
+      "#FAE29E",
+      "#EA9A52"
+    ],
+    "file": "solutions-2024-12-18.json"
+  },
+  {
+    "date": "2024-12-17",
+    "colors": [
+      "#588A95",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2024-12-17.json"
+  },
+  {
+    "date": "2024-02-26",
+    "colors": [
+      "#FEFF89",
+      "#F59426",
+      "#8A0A06"
+    ],
+    "file": "solutions-2024-02-26.json"
+  },
+  {
+    "date": "2024-02-17",
+    "colors": [
+      "#B8B4CC",
+      "#453867"
+    ],
+    "file": "solutions-2024-02-17.json"
+  },
+  {
+    "date": "2024-02-15",
+    "colors": [
+      "#C799CA",
+      "#613243"
+    ],
+    "file": "solutions-2024-02-15.json"
+  },
+  {
+    "date": "2024-02-14",
+    "colors": [
+      "#2F2E59",
+      "#EEECF6"
+    ],
+    "file": "solutions-2024-02-14.json"
+  },
+  {
+    "date": "2024-02-13",
+    "colors": [
+      "#4A1818",
+      "#C31C1D"
+    ],
+    "file": "solutions-2024-02-13.json"
+  },
+  {
+    "date": "2024-02-12",
+    "colors": [
+      "#2BBBF3",
+      "#D8EFDD"
+    ],
+    "file": "solutions-2024-02-12.json"
+  },
+  {
+    "date": "2024-02-11",
+    "colors": [
+      "#5F0032",
+      "#F180B6"
+    ],
+    "file": "solutions-2024-02-11.json"
+  },
+  {
+    "date": "2024-02-10",
+    "colors": [
+      "#024817",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2024-02-10.json"
+  },
+  {
+    "date": "2024-02-09",
+    "colors": [
+      "#1E1D50",
+      "#EEECF6"
+    ],
+    "file": "solutions-2024-02-09.json"
+  },
+  {
+    "date": "2024-02-08",
+    "colors": [
+      "#680039",
+      "#F28BBB"
+    ],
+    "file": "solutions-2024-02-08.json"
+  },
+  {
+    "date": "2024-02-07",
+    "colors": [
+      "#FFFF9C",
+      "#F59426"
+    ],
+    "file": "solutions-2024-02-07.json"
+  },
+  {
+    "date": "2024-02-06",
+    "colors": [
+      "#5C507C",
+      "#C7BFE1"
+    ],
+    "file": "solutions-2024-02-06.json"
+  },
+  {
+    "date": "2024-02-05",
+    "colors": [
+      "#05476C",
+      "#EFF8FE"
+    ],
+    "file": "solutions-2024-02-05.json"
+  },
+  {
+    "date": "2024-02-04",
+    "colors": [
+      "#F27826",
+      "#FED820",
+      "#FFFFA4"
+    ],
+    "file": "solutions-2024-02-04.json"
+  },
+  {
+    "date": "2024-02-03",
+    "colors": [
+      "#FAD3E5",
+      "#AD2056"
+    ],
+    "file": "solutions-2024-02-03.json"
+  },
+  {
+    "date": "2024-02-02",
+    "colors": [
+      "#5C3921",
+      "#C17D1B",
+      "#FBBA24"
+    ],
+    "file": "solutions-2024-02-02.json"
+  },
+  {
+    "date": "2024-02-01",
+    "colors": [
+      "#D5EDFC",
+      "#06487A"
+    ],
+    "file": "solutions-2024-02-01.json"
+  },
+  {
+    "date": "2024-01-30",
+    "colors": [
+      "#D8B788",
+      "#684C3B"
+    ],
+    "file": "solutions-2024-01-30.json"
+  },
+  {
+    "date": "2024-01-28",
+    "colors": [
+      "#6F234F",
+      "#F7BED9"
+    ],
+    "file": "solutions-2024-01-28.json"
+  },
+  {
+    "date": "2024-01-23",
+    "colors": [
+      "#401653",
+      "#A94EA4",
+      "#F7BED9"
+    ],
+    "file": "solutions-2024-01-23.json"
+  },
+  {
+    "date": "2024-01-21",
+    "colors": [
+      "#223E1F",
+      "#0A9947",
+      "#FEFF27"
+    ],
+    "file": "solutions-2024-01-21.json"
+  },
+  {
+    "date": "2024-01-20",
+    "colors": [
+      "#602820",
+      "#FAC2A8",
+      "#F16B4A"
+    ],
+    "file": "solutions-2024-01-20.json"
+  },
+  {
+    "date": "2024-01-19",
+    "colors": [
+      "#551D70",
+      "#7E6BB7",
+      "#E6E7E8"
+    ],
+    "file": "solutions-2024-01-19.json"
+  },
+  {
+    "date": "2024-01-17",
+    "colors": [
+      "#D8B788",
+      "#684C3B"
+    ],
+    "file": "solutions-2024-01-17.json"
+  },
+  {
+    "date": "2024-01-16",
+    "colors": [
+      "#002A6B",
+      "#C7E7FB",
+      "#5CC4F4"
+    ],
+    "file": "solutions-2024-01-16.json"
+  },
+  {
+    "date": "2024-01-15",
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ],
+    "file": "solutions-2024-01-15.json"
+  },
+  {
+    "date": "2024-01-14",
+    "colors": [
+      "#7C402E",
+      "#F1E5DF"
+    ],
+    "file": "solutions-2024-01-14.json"
+  },
+  {
+    "date": "2024-01-13",
+    "colors": [
+      "#7BAFDE",
+      "#000039",
+      "#6867D4"
+    ],
+    "file": "solutions-2024-01-13.json"
+  },
+  {
+    "date": "2024-01-12",
+    "colors": [
+      "#762B2B",
+      "#FFF685"
+    ],
+    "file": "solutions-2024-01-12.json"
+  },
+  {
+    "date": "2024-01-11",
+    "colors": [
+      "#92278F",
+      "#FFF579"
+    ],
+    "file": "solutions-2024-01-11.json"
+  },
+  {
+    "date": "2024-01-10",
+    "colors": [
+      "#6F2450",
+      "#FCDFEB"
+    ],
+    "file": "solutions-2024-01-10.json"
+  },
+  {
+    "date": "2024-01-09",
+    "colors": [
+      "#AEA530",
+      "#FFF9AE"
+    ],
+    "file": "solutions-2024-01-09.json"
+  },
+  {
+    "date": "2024-01-08",
+    "colors": [
+      "#0C2428",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2024-01-08.json"
+  },
+  {
+    "date": "2024-01-07",
+    "colors": [
+      "#F89F65",
+      "#5E0000"
+    ],
+    "file": "solutions-2024-01-07.json"
+  },
+  {
+    "date": "2024-01-06",
+    "colors": [
+      "#009247",
+      "#F0F8F1"
+    ],
+    "file": "solutions-2024-01-06.json"
+  },
+  {
+    "date": "2024-01-05",
+    "colors": [
+      "#302954",
+      "#FDDDCE"
+    ],
+    "file": "solutions-2024-01-05.json"
+  },
+  {
+    "date": "2024-01-04",
+    "colors": [
+      "#7EA26F",
+      "#204F23"
+    ],
+    "file": "solutions-2024-01-04.json"
+  },
+  {
+    "date": "2024-01-03",
+    "colors": [
+      "#92278F",
+      "#FFF579"
+    ],
+    "file": "solutions-2024-01-03.json"
+  },
+  {
+    "date": "2024-01-02",
+    "colors": [
+      "#645E00",
+      "#FFF579"
+    ],
+    "file": "solutions-2024-01-02.json"
+  },
+  {
+    "date": "2024-01-01",
+    "colors": [
+      "#14313E",
+      "#F16348",
+      "#BD3F4C"
+    ],
+    "file": "solutions-2024-01-01.json"
+  },
+  {
+    "date": "2024-01-00",
+    "colors": [
+      "#7BAFDE",
+      "#6867D4",
+      "#000039"
+    ],
+    "file": "solutions-2024-01-00.json"
+  },
+  {
+    "date": "2023-12-30",
+    "colors": [
+      "#A49FBB",
+      "#291D61"
+    ],
+    "file": "solutions-2023-12-30.json"
+  },
+  {
+    "date": "2023-12-29",
+    "colors": [
+      "#223B1E",
+      "#A6CE39"
+    ],
+    "file": "solutions-2023-12-29.json"
+  },
+  {
+    "date": "2023-12-28",
+    "colors": [
+      "#32295A",
+      "#B0ACD5"
+    ],
+    "file": "solutions-2023-12-28.json"
+  },
+  {
+    "date": "2023-12-27",
+    "colors": [
+      "#F2644D",
+      "#FFFFFF",
+      "#6DA7FF"
+    ],
+    "file": "solutions-2023-12-27.json"
+  },
+  {
+    "date": "2023-12-26",
+    "colors": [
+      "#642328",
+      "#FFFFFF",
+      "#FF8D7A"
+    ],
+    "file": "solutions-2023-12-26.json"
+  },
+  {
+    "date": "2023-12-25",
+    "colors": [
+      "#14313E",
+      "#BD3E4B",
+      "#F16348"
+    ],
+    "file": "solutions-2023-12-25.json"
+  },
+  {
+    "date": "2023-12-24",
+    "colors": [
+      "#645E00",
+      "#FFF579"
+    ],
+    "file": "solutions-2023-12-24.json"
+  },
+  {
+    "date": "2023-12-23",
+    "colors": [
+      "#FFF45F",
+      "#403571",
+      "#0098D1"
+    ],
+    "file": "solutions-2023-12-23.json"
+  },
+  {
+    "date": "2023-12-22",
+    "colors": [
+      "#92278F",
+      "#FFF579"
+    ],
+    "file": "solutions-2023-12-22.json"
+  },
+  {
+    "date": "2023-12-21",
+    "colors": [
+      "#62324E",
+      "#FCDFEB"
+    ],
+    "file": "solutions-2023-12-21.json"
+  },
+  {
+    "date": "2023-12-20",
+    "colors": [
+      "#811E1F",
+      "#F1F1F2"
+    ],
+    "file": "solutions-2023-12-20.json"
+  },
+  {
+    "date": "2023-12-19",
+    "colors": [
+      "#006645",
+      "#DDE89A"
+    ],
+    "file": "solutions-2023-12-19.json"
+  },
+  {
+    "date": "2023-12-18",
+    "colors": [
+      "#371948",
+      "#B0ACD5"
+    ],
+    "file": "solutions-2023-12-18.json"
+  },
+  {
+    "date": "2023-12-17",
+    "colors": [
+      "#004928",
+      "#E5EDE9"
+    ],
+    "file": "solutions-2023-12-17.json"
+  },
+  {
+    "date": "2023-12-16",
+    "colors": [
+      "#F58220",
+      "#5E0000",
+      "#BA131A"
+    ],
+    "file": "solutions-2023-12-16.json"
+  },
+  {
+    "date": "2023-12-15",
+    "colors": [
+      "#FFF45F",
+      "#0098D1",
+      "#403571"
+    ],
+    "file": "solutions-2023-12-15.json"
+  },
+  {
+    "date": "2023-12-14",
+    "colors": [
+      "#D4EFFC",
+      "#7BAFDE",
+      "#000039"
+    ],
+    "file": "solutions-2023-12-14.json"
+  },
+  {
+    "date": "2023-12-13",
+    "colors": [
+      "#62324E",
+      "#FCDFEB"
+    ],
+    "file": "solutions-2023-12-13.json"
+  },
+  {
+    "date": "2023-12-12",
+    "colors": [
+      "#004416",
+      "#82CA9C"
+    ],
+    "file": "solutions-2023-12-12.json"
+  },
+  {
+    "date": "2023-12-09",
+    "colors": [
+      "#302562",
+      "#0098D1"
+    ],
+    "file": "solutions-2023-12-09.json"
+  },
+  {
+    "date": "2023-12-08",
+    "colors": [
+      "#5B8395",
+      "#E3F5FD"
+    ],
+    "file": "solutions-2023-12-08.json"
+  },
+  {
+    "date": "2023-12-07",
+    "colors": [
+      "#2C4228",
+      "#A6CE39",
+      "#BDFFB1"
+    ],
+    "file": "solutions-2023-12-07.json"
+  },
+  {
+    "date": "2023-12-11",
+    "colors": [
+      "#B0ACD5",
+      "#6A5885"
+    ],
+    "file": "solutions-2023-12-11.json"
+  },
+  {
+    "date": "2023-12-10",
+    "colors": [
+      "#F26522",
+      "#FCAF17",
+      "#FFF33E"
+    ],
+    "file": "solutions-2023-12-10.json"
+  },
+  {
+    "date": "2023-12-06",
+    "colors": [
+      "#C1A936",
+      "#FFFCDF"
+    ],
+    "file": "solutions-2023-12-06.json"
+  },
+  {
+    "date": "2023-12-05",
+    "colors": [
+      "#004563",
+      "#D4EFFC"
+    ],
+    "file": "solutions-2023-12-05.json"
+  },
+  {
+    "date": "2023-12-04",
+    "colors": [
+      "#F37053",
+      "#670000"
+    ],
+    "file": "solutions-2023-12-04.json"
+  },
+  {
+    "date": "2023-12-03",
+    "colors": [
+      "#2C4228",
+      "#A6CE39"
+    ],
+    "file": "solutions-2023-12-03.json"
+  },
+  {
+    "date": "2023-12-02",
+    "colors": [
+      "#004563",
+      "#D4EFFC"
+    ],
+    "file": "solutions-2023-12-02.json"
+  },
+  {
+    "date": "2023-12-01",
+    "colors": [
+      "#486841",
+      "#6FB440",
+      "#ACEB3F"
+    ],
+    "file": "solutions-2023-12-01.json"
+  },
+  {
+    "date": "2023-12-00",
+    "colors": [
+      "#B6D463",
+      "#2E432A"
+    ],
+    "file": "solutions-2023-12-00.json"
+  },
+  {
+    "date": "2023-11-29",
+    "colors": [
+      "#004416",
+      "#8FCEA5"
+    ],
+    "file": "solutions-2023-11-29.json"
+  },
+  {
+    "date": "2023-11-28",
+    "colors": [
+      "#6B2222",
+      "#F1F2F2"
+    ],
+    "file": "solutions-2023-11-28.json"
+  },
+  {
+    "date": "2023-11-27",
+    "colors": [
+      "#DCD68D",
+      "#524354"
+    ],
+    "file": "solutions-2023-11-27.json"
+  },
+  {
+    "date": "2023-11-26",
+    "colors": [
+      "#F58220",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-11-26.json"
+  },
+  {
+    "date": "2023-11-25",
+    "colors": [
+      "#004563",
+      "#92B6C7"
+    ],
+    "file": "solutions-2023-11-25.json"
+  },
+  {
+    "date": "2023-11-24",
+    "colors": [
+      "#E0DA8E",
+      "#898329"
+    ],
+    "file": "solutions-2023-11-24.json"
+  },
+  {
+    "date": "2023-11-22",
+    "colors": [
+      "#602054",
+      "#ECDFEA"
+    ],
+    "file": "solutions-2023-11-22.json"
+  },
+  {
+    "date": "2023-11-21",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-11-21.json"
+  },
+  {
+    "date": "2023-11-20",
+    "colors": [
+      "#8C80BB",
+      "#FCDFEB"
+    ],
+    "file": "solutions-2023-11-20.json"
+  },
+  {
+    "date": "2023-11-19",
+    "colors": [
+      "#791E4D",
+      "#FFC5DD"
+    ],
+    "file": "solutions-2023-11-19.json"
+  },
+  {
+    "date": "2023-11-18",
+    "colors": [
+      "#C6DD7F",
+      "#486841"
+    ],
+    "file": "solutions-2023-11-18.json"
+  },
+  {
+    "date": "2023-11-17",
+    "colors": [
+      "#5B8395",
+      "#F1FAFE"
+    ],
+    "file": "solutions-2023-11-17.json"
+  },
+  {
+    "date": "2023-11-16",
+    "colors": [
+      "#7D4886",
+      "#670053"
+    ],
+    "file": "solutions-2023-11-16.json"
+  },
+  {
+    "date": "2023-11-14",
+    "colors": [
+      "#C1A936",
+      "#FFFCDF",
+      "#FFF56D"
+    ],
+    "file": "solutions-2023-11-14.json"
+  },
+  {
+    "date": "2023-11-13",
+    "colors": [
+      "#F58220",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-11-13.json"
+  },
+  {
+    "date": "2023-11-12",
+    "colors": [
+      "#7B3738",
+      "#FCAF17"
+    ],
+    "file": "solutions-2023-11-12.json"
+  },
+  {
+    "date": "2023-11-11",
+    "colors": [
+      "#73385A",
+      "#FCDFEB"
+    ],
+    "file": "solutions-2023-11-11.json"
+  },
+  {
+    "date": "2023-11-10",
+    "colors": [
+      "#FBC3E4",
+      "#8C0052"
+    ],
+    "file": "solutions-2023-11-10.json"
+  },
+  {
+    "date": "2023-11-09",
+    "colors": [
+      "#D0AF50",
+      "#8C292A"
+    ],
+    "file": "solutions-2023-11-09.json"
+  },
+  {
+    "date": "2023-11-08",
+    "colors": [
+      "#3A345E",
+      "#E0DEF0"
+    ],
+    "file": "solutions-2023-11-08.json"
+  },
+  {
+    "date": "2023-11-06",
+    "colors": [
+      "#302562",
+      "#0098D1"
+    ],
+    "file": "solutions-2023-11-06.json"
+  },
+  {
+    "date": "2023-11-05",
+    "colors": [
+      "#9C57A8",
+      "#651E57"
+    ],
+    "file": "solutions-2023-11-05.json"
+  },
+  {
+    "date": "2023-11-04",
+    "colors": [
+      "#504B72",
+      "#FFFBCC"
+    ],
+    "file": "solutions-2023-11-04.json"
+  },
+  {
+    "date": "2023-11-03",
+    "colors": [
+      "#8C80BB",
+      "#FCDFEB"
+    ],
+    "file": "solutions-2023-11-03.json"
+  },
+  {
+    "date": "2023-11-02",
+    "colors": [
+      "#CBC35C",
+      "#FFFAC2",
+      "#CF464A"
+    ],
+    "file": "solutions-2023-11-02.json"
+  },
+  {
+    "date": "2023-11-01",
+    "colors": [
+      "#813131",
+      "#FFFCDF"
+    ],
+    "file": "solutions-2023-11-01.json"
+  },
+  {
+    "date": "2023-11-00",
+    "colors": [
+      "#763258",
+      "#F067A6",
+      "#FAD5E5"
+    ],
+    "file": "solutions-2023-11-00.json"
+  },
+  {
+    "date": "2023-10-30",
+    "colors": [
+      "#F58220",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-10-30.json"
+  },
+  {
+    "date": "2023-10-29",
+    "colors": [
+      "#872626",
+      "#E3745D"
+    ],
+    "file": "solutions-2023-10-29.json"
+  },
+  {
+    "date": "2023-10-28",
+    "colors": [
+      "#B8B7CC",
+      "#1E1E5A"
+    ],
+    "file": "solutions-2023-10-28.json"
+  },
+  {
+    "date": "2023-10-27",
+    "colors": [
+      "#CBE8DD",
+      "#007192"
+    ],
+    "file": "solutions-2023-10-27.json"
+  },
+  {
+    "date": "2023-10-26",
+    "colors": [
+      "#892626",
+      "#C0B932"
+    ],
+    "file": "solutions-2023-10-26.json"
+  },
+  {
+    "date": "2023-10-25",
+    "colors": [
+      "#0D004C",
+      "#B8B7CC"
+    ],
+    "file": "solutions-2023-10-25.json"
+  },
+  {
+    "date": "2023-10-24",
+    "colors": [
+      "#E3B52E",
+      "#8C292A"
+    ],
+    "file": "solutions-2023-10-24.json"
+  },
+  {
+    "date": "2023-10-23",
+    "colors": [
+      "#FEFAE0",
+      "#9CCCDB"
+    ],
+    "file": "solutions-2023-10-23.json"
+  },
+  {
+    "date": "2023-10-22",
+    "colors": [
+      "#5E2D8C",
+      "#42A5F5"
+    ],
+    "file": "solutions-2023-10-22.json"
+  },
+  {
+    "date": "2023-10-21",
+    "colors": [
+      "#4F77FF",
+      "#284ED0",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-10-21.json"
+  },
+  {
+    "date": "2023-10-20",
+    "colors": [
+      "#F0CD48",
+      "#D86F45",
+      "#5F3829"
+    ],
+    "file": "solutions-2023-10-20.json"
+  },
+  {
+    "date": "2023-10-19",
+    "colors": [
+      "#F6E49C",
+      "#2F5C24"
+    ],
+    "file": "solutions-2023-10-19.json"
+  },
+  {
+    "date": "2023-10-18",
+    "colors": [
+      "#FEFAE0",
+      "#9CCCDB",
+      "#A461E8"
+    ],
+    "file": "solutions-2023-10-18.json"
+  },
+  {
+    "date": "2023-10-17",
+    "colors": [
+      "#ED6A9D",
+      "#050044"
+    ],
+    "file": "solutions-2023-10-17.json"
+  },
+  {
+    "date": "2023-10-16",
+    "colors": [
+      "#B5D1FB",
+      "#230259",
+      "#8819F6"
+    ],
+    "file": "solutions-2023-10-16.json"
+  },
+  {
+    "date": "2023-10-15",
+    "colors": [
+      "#F3EAD2",
+      "#42A5F5"
+    ],
+    "file": "solutions-2023-10-15.json"
+  },
+  {
+    "date": "2023-10-14",
+    "colors": [
+      "#A9C482",
+      "#2D696F",
+      "#F0CD48"
+    ],
+    "file": "solutions-2023-10-14.json"
+  },
+  {
+    "date": "2023-10-12",
+    "colors": [
+      "#FEFAE3",
+      "#B17036",
+      "#D4A469"
+    ],
+    "file": "solutions-2023-10-12.json"
+  },
+  {
+    "date": "2023-10-11",
+    "colors": [
+      "#DA30D4",
+      "#0C0C49"
+    ],
+    "file": "solutions-2023-10-11.json"
+  },
+  {
+    "date": "2023-10-10",
+    "colors": [
+      "#FEFAE0",
+      "#9CCCDB"
+    ],
+    "file": "solutions-2023-10-10.json"
+  },
+  {
+    "date": "2023-10-09",
+    "colors": [
+      "#B5D1FB",
+      "#8819F6",
+      "#230259"
+    ],
+    "file": "solutions-2023-10-09.json"
+  },
+  {
+    "date": "2023-10-08",
+    "colors": [
+      "#ED6A9D",
+      "#050044"
+    ],
+    "file": "solutions-2023-10-08.json"
+  },
+  {
+    "date": "2023-10-07",
+    "colors": [
+      "#A9C482",
+      "#2D696F"
+    ],
+    "file": "solutions-2023-10-07.json"
+  },
+  {
+    "date": "2023-10-06",
+    "colors": [
+      "#F0CD48",
+      "#66284A"
+    ],
+    "file": "solutions-2023-10-06.json"
+  },
+  {
+    "date": "2023-10-05",
+    "colors": [
+      "#4F77FF",
+      "#FFF"
+    ],
+    "file": "solutions-2023-10-05.json"
+  },
+  {
+    "date": "2023-10-04",
+    "colors": [
+      "#DA30D4",
+      "#0C0C49"
+    ],
+    "file": "solutions-2023-10-04.json"
+  },
+  {
+    "date": "2023-10-03",
+    "colors": [
+      "#FEFAE0",
+      "#9CCCDB"
+    ],
+    "file": "solutions-2023-10-03.json"
+  },
+  {
+    "date": "2023-10-02",
+    "colors": [
+      "#B5D1FB",
+      "#8819F6",
+      "#230259"
+    ],
+    "file": "solutions-2023-10-02.json"
+  },
+  {
+    "date": "2023-10-01",
+    "colors": [
+      "#ED6A9D",
+      "#050044"
+    ],
+    "file": "solutions-2023-10-01.json"
+  },
+  {
+    "date": "2023-10-00",
+    "colors": [
+      "#FEFAE3",
+      "#D4A469",
+      "#B17036"
+    ],
+    "file": "solutions-2023-10-00.json"
+  },
+  {
+    "date": "2023-09-29",
+    "colors": [
+      "#E69041",
+      "#221F20"
+    ],
+    "file": "solutions-2023-09-29.json"
+  },
+  {
+    "date": "2023-09-28",
+    "colors": [
+      "#5E2D8C",
+      "#F7ED5A"
+    ],
+    "file": "solutions-2023-09-28.json"
+  },
+  {
+    "date": "2023-09-27",
+    "colors": [
+      "#8D1C24",
+      "#EC9140"
+    ],
+    "file": "solutions-2023-09-27.json"
+  },
+  {
+    "date": "2023-09-26",
+    "colors": [
+      "#3C31A0",
+      "#E5DDD9"
+    ],
+    "file": "solutions-2023-09-26.json"
+  },
+  {
+    "date": "2023-09-24",
+    "colors": [
+      "#9CCCDB",
+      "#FEFAE0"
+    ],
+    "file": "solutions-2023-09-24.json"
+  },
+  {
+    "date": "2023-09-25",
+    "colors": [
+      "#A9C482",
+      "#2D696F"
+    ],
+    "file": "solutions-2023-09-25.json"
+  },
+  {
+    "date": "2023-09-23",
+    "colors": [
+      "#DA30D4",
+      "#0C0C49"
+    ],
+    "file": "solutions-2023-09-23.json"
+  },
+  {
+    "date": "2023-09-22",
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ],
+    "file": "solutions-2023-09-22.json"
+  },
+  {
+    "date": "2023-09-21",
+    "colors": [
+      "#DE9473",
+      "#A4281F"
+    ],
+    "file": "solutions-2023-09-21.json"
+  },
+  {
+    "date": "2023-09-20",
+    "colors": [
+      "#F1D272",
+      "#EE7667"
+    ],
+    "file": "solutions-2023-09-20.json"
+  },
+  {
+    "date": "2023-09-19",
+    "colors": [
+      "#ED6A9D",
+      "#050044"
+    ],
+    "file": "solutions-2023-09-19.json"
+  },
+  {
+    "date": "2023-09-18",
+    "colors": [
+      "#9076D8",
+      "#802471",
+      "#4F0843"
+    ],
+    "file": "solutions-2023-09-18.json"
+  },
+  {
+    "date": "2023-09-17",
+    "colors": [
+      "#F5BE6C",
+      "#B74838"
+    ],
+    "file": "solutions-2023-09-17.json"
+  },
+  {
+    "date": "2023-09-16",
+    "colors": [
+      "#8647E6",
+      "#EFEB99"
+    ],
+    "file": "solutions-2023-09-16.json"
+  },
+  {
+    "date": "2023-09-15",
+    "colors": [
+      "#DE9473",
+      "#A4281F"
+    ],
+    "file": "solutions-2023-09-15.json"
+  },
+  {
+    "date": "2023-09-14",
+    "colors": [
+      "#5E2948",
+      "#E7A366"
+    ],
+    "file": "solutions-2023-09-14.json"
+  },
+  {
+    "date": "2023-09-13",
+    "colors": [
+      "#DA30D4",
+      "#0C0C49"
+    ],
+    "file": "solutions-2023-09-13.json"
+  },
+  {
+    "date": "2023-09-12",
+    "colors": [
+      "#FEFAE0",
+      "#9CCCDB"
+    ],
+    "file": "solutions-2023-09-12.json"
+  },
+  {
+    "date": "2023-09-11",
+    "colors": [
+      "#B5D1FB",
+      "#230259",
+      "#8819F6"
+    ],
+    "file": "solutions-2023-09-11.json"
+  },
+  {
+    "date": "2023-09-10",
+    "colors": [
+      "#FEFAE3",
+      "#D4A469",
+      "#B17036"
+    ],
+    "file": "solutions-2023-09-10.json"
+  },
+  {
+    "date": "2023-09-09",
+    "colors": [
+      "#E6D9AC",
+      "#BD6C27",
+      "#8F2D2B"
+    ],
+    "file": "solutions-2023-09-09.json"
+  },
+  {
+    "date": "2023-09-08",
+    "colors": [
+      "#8D1C24",
+      "#EC9140"
+    ],
+    "file": "solutions-2023-09-08.json"
+  },
+  {
+    "date": "2023-09-07",
+    "colors": [
+      "#C52184",
+      "#F9B4ED"
+    ],
+    "file": "solutions-2023-09-07.json"
+  },
+  {
+    "date": "2023-09-06",
+    "colors": [
+      "#A9C482",
+      "#2D696F"
+    ],
+    "file": "solutions-2023-09-06.json"
+  },
+  {
+    "date": "2023-09-05",
+    "colors": [
+      "#763EDF",
+      "#6BD0FA"
+    ],
+    "file": "solutions-2023-09-05.json"
+  },
+  {
+    "date": "2023-09-04",
+    "colors": [
+      "#F0CD48",
+      "#66284A"
+    ],
+    "file": "solutions-2023-09-04.json"
+  },
+  {
+    "date": "2023-09-03",
+    "colors": [
+      "#D86F45",
+      "#F0CD48",
+      "#FDFBF8"
+    ],
+    "file": "solutions-2023-09-03.json"
+  },
+  {
+    "date": "2023-09-02",
+    "colors": [
+      "#D669EC",
+      "#FDFBF8"
+    ],
+    "file": "solutions-2023-09-02.json"
+  },
+  {
+    "date": "2023-09-01",
+    "colors": [
+      "#66284A",
+      "#F0CD48"
+    ],
+    "file": "solutions-2023-09-01.json"
+  },
+  {
+    "date": "2023-09-00",
+    "colors": [
+      "#FDFBF8",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-09-00.json"
+  },
+  {
+    "date": "2023-08-30",
+    "colors": [
+      "#F0CD48",
+      "#66284A"
+    ],
+    "file": "solutions-2023-08-30.json"
+  },
+  {
+    "date": "2023-08-29",
+    "colors": [
+      "#D669EC",
+      "#FDFBF8"
+    ],
+    "file": "solutions-2023-08-29.json"
+  },
+  {
+    "date": "2023-08-28",
+    "colors": [
+      "#66284A",
+      "#F0CD48"
+    ],
+    "file": "solutions-2023-08-28.json"
+  },
+  {
+    "date": "2023-08-27",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-08-27.json"
+  },
+  {
+    "date": "2023-08-26",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-08-26.json"
+  },
+  {
+    "date": "2023-08-25",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-08-25.json"
+  },
+  {
+    "date": "2023-08-23",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-08-23.json"
+  },
+  {
+    "date": "2023-08-24",
+    "colors": [
+      "#4F77FF",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-08-24.json"
+  },
+  {
+    "date": "2023-08-22",
+    "colors": [
+      "#926927",
+      "#F8B140"
+    ],
+    "file": "solutions-2023-08-22.json"
+  },
+  {
+    "date": "2023-08-21",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-08-21.json"
+  },
+  {
+    "date": "2023-08-20",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-08-20.json"
+  },
+  {
+    "date": "2023-08-19",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-08-19.json"
+  },
+  {
+    "date": "2023-08-18",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-08-18.json"
+  },
+  {
+    "date": "2023-08-17",
+    "colors": [
+      "#4F77FF",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-08-17.json"
+  },
+  {
+    "date": "2023-08-16",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-08-16.json"
+  },
+  {
+    "date": "2023-08-15",
+    "colors": [
+      "#926927",
+      "#F8B140"
+    ],
+    "file": "solutions-2023-08-15.json"
+  },
+  {
+    "date": "2023-08-14",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-08-14.json"
+  },
+  {
+    "date": "2023-08-13",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-08-13.json"
+  },
+  {
+    "date": "2023-08-12",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-08-12.json"
+  },
+  {
+    "date": "2023-08-11",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-08-11.json"
+  },
+  {
+    "date": "2023-08-10",
+    "colors": [
+      "#4F77FF",
+      "#003AFF",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-08-10.json"
+  },
+  {
+    "date": "2023-08-09",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45",
+      "#FFA885"
+    ],
+    "file": "solutions-2023-08-09.json"
+  },
+  {
+    "date": "2023-07-10",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-07-10.json"
+  },
+  {
+    "date": "2023-06-29",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-06-29.json"
+  },
+  {
+    "date": "2023-07-07",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-07-07.json"
+  },
+  {
+    "date": "2023-07-08",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-07-08.json"
+  },
+  {
+    "date": "2023-07-09",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-07-09.json"
+  },
+  {
+    "date": "2023-07-06",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-07-06.json"
+  },
+  {
+    "date": "2023-07-05",
+    "colors": [
+      "#4F77FF",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-07-05.json"
+  },
+  {
+    "date": "2023-07-04",
+    "colors": [
+      "#926927",
+      "#F8B140"
+    ],
+    "file": "solutions-2023-07-04.json"
+  },
+  {
+    "date": "2023-07-03",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-07-03.json"
+  },
+  {
+    "date": "2023-07-02",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-07-02.json"
+  },
+  {
+    "date": "2023-06-30",
+    "colors": [
+      "#1E1E1E",
+      "#DDB231",
+      "#F6B690"
+    ],
+    "file": "solutions-2023-06-30.json"
+  },
+  {
+    "date": "2023-06-28",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-06-28.json"
+  },
+  {
+    "date": "2023-08-08",
+    "colors": [
+      "#926927",
+      "#F8B140",
+      "#FFEBCB"
+    ],
+    "file": "solutions-2023-08-08.json"
+  },
+  {
+    "date": "2023-07-12",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-07-12.json"
+  },
+  {
+    "date": "2023-07-11",
+    "colors": [
+      "#926927",
+      "#F8B140"
+    ],
+    "file": "solutions-2023-07-11.json"
+  },
+  {
+    "date": "2023-07-13",
+    "colors": [
+      "#4F77FF",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-07-13.json"
+  },
+  {
+    "date": "2023-07-01",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-07-01.json"
+  },
+  {
+    "date": "2023-07-14",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-07-14.json"
+  },
+  {
+    "date": "2023-07-15",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-07-15.json"
+  },
+  {
+    "date": "2023-07-16",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-07-16.json"
+  },
+  {
+    "date": "2023-07-31",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-07-31.json"
+  },
+  {
+    "date": "2023-08-01",
+    "colors": [
+      "#926927",
+      "#F8B140"
+    ],
+    "file": "solutions-2023-08-01.json"
+  },
+  {
+    "date": "2023-08-02",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-08-02.json"
+  },
+  {
+    "date": "2023-07-17",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-07-17.json"
+  },
+  {
+    "date": "2023-07-18",
+    "colors": [
+      "#926927",
+      "#F8B140"
+    ],
+    "file": "solutions-2023-07-18.json"
+  },
+  {
+    "date": "2023-07-19",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-07-19.json"
+  },
+  {
+    "date": "2023-07-20",
+    "colors": [
+      "#4F77FF",
+      "#FFFFFF",
+      "#1038BF"
+    ],
+    "file": "solutions-2023-07-20.json"
+  },
+  {
+    "date": "2023-07-21",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-07-21.json"
+  },
+  {
+    "date": "2023-07-22",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-07-22.json"
+  },
+  {
+    "date": "2023-07-23",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-07-23.json"
+  },
+  {
+    "date": "2023-07-24",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-07-24.json"
+  },
+  {
+    "date": "2023-07-25",
+    "colors": [
+      "#926927",
+      "#F8B140"
+    ],
+    "file": "solutions-2023-07-25.json"
+  },
+  {
+    "date": "2023-07-26",
+    "colors": [
+      "#F5D6B4",
+      "#D86F45"
+    ],
+    "file": "solutions-2023-07-26.json"
+  },
+  {
+    "date": "2023-07-27",
+    "colors": [
+      "#4F77FF",
+      "#FFFFFF",
+      "#1038BF"
+    ],
+    "file": "solutions-2023-07-27.json"
+  },
+  {
+    "date": "2023-07-30",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-07-30.json"
+  },
+  {
+    "date": "2023-07-29",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-07-29.json"
+  },
+  {
+    "date": "2023-07-28",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-07-28.json"
+  },
+  {
+    "date": "2023-08-03",
+    "colors": [
+      "#4F77FF",
+      "#FFFFFF"
+    ],
+    "file": "solutions-2023-08-03.json"
+  },
+  {
+    "date": "2023-08-04",
+    "colors": [
+      "#62306D",
+      "#F7EC7D"
+    ],
+    "file": "solutions-2023-08-04.json"
+  },
+  {
+    "date": "2023-08-05",
+    "colors": [
+      "#E3516E",
+      "#FADE8B"
+    ],
+    "file": "solutions-2023-08-05.json"
+  },
+  {
+    "date": "2023-08-06",
+    "colors": [
+      "#998235",
+      "#0B2429"
+    ],
+    "file": "solutions-2023-08-06.json"
+  },
+  {
+    "date": "2023-08-07",
+    "colors": [
+      "#6592CF",
+      "#060F55"
+    ],
+    "file": "solutions-2023-08-07.json"
+  },
+  {
+    "date": "2025-07-27",
+    "colors": [
+      "#DC9DA6",
+      "#6E3C3C"
+    ],
+    "file": "solutions-2025-07-27.json"
   }
 ]
