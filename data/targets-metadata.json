@@ -1,4 +1,127 @@
 [
+  {
+    "date": "2025-07-27",
+    "colors": [
+      "#DC9DA6",
+      "#6E3C3C"
+    ],
+    "file": "solutions-2025-07-27.json"
+  },
+  {
+    "date": "2025-06-16",
+    "colors": [
+      "#D95362",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2025-06-16.json"
+  },
+  {
+    "date": "2025-06-11",
+    "colors": [
+      "#EED9D9",
+      "#66284A"
+    ],
+    "file": "solutions-2025-06-11.json"
+  },
+  {
+    "date": "2025-05-19",
+    "colors": [
+      "#BDE4C1",
+      "#4C455B",
+      "#D95F5B"
+    ],
+    "file": "solutions-2025-05-19.json"
+  },
+  {
+    "date": "2025-04-05",
+    "colors": [
+      "#E8AD6D",
+      "#DE6B67"
+    ],
+    "file": "solutions-2025-04-05.json"
+  },
+  {
+    "date": "2025-08-16",
+    "colors": [
+      "#4C455B",
+      "#D96C7B",
+      "#F3EAD2"
+    ],
+    "file": "solutions-2025-08-16.json"
+  },
+  {
+    "date": "2025-02-27",
+    "colors": [
+      "#183539",
+      "#46BA67"
+    ],
+    "file": "solutions-2025-02-27.json"
+  },
+  {
+    "date": "2025-03-25",
+    "colors": [
+      "#E35158",
+      "#D9D9D9"
+    ],
+    "file": "solutions-2025-03-25.json"
+  },
+  {
+    "date": "2025-04-08",
+    "colors": [
+      "#FCEBEB",
+      "#8E2C88"
+    ],
+    "file": "solutions-2025-04-08.json"
+  },
+  {
+    "date": "2025-05-03",
+    "colors": [
+      "#F4DA64",
+      "#5C8D8F"
+    ],
+    "file": "solutions-2025-05-03.json"
+  },
+  {
+    "date": "2025-06-09",
+    "colors": [
+      "#4F55A2",
+      "#DCC6A8"
+    ],
+    "file": "solutions-2025-06-09.json"
+  },
+  {
+    "date": "2025-07-09",
+    "colors": [
+      "#2E312B",
+      "#D9D9D9",
+      "#7AA70A"
+    ],
+    "file": "solutions-2025-07-09.json"
+  },
+  {
+    "date": "2025-08-08",
+    "colors": [
+      "#3A335A",
+      "#FADE8B"
+    ],
+    "file": "solutions-2025-08-08.json"
+  },
+  {
+    "date": "2025-08-13",
+    "colors": [
+      "#5A9F48",
+      "#23384B"
+    ],
+    "file": "solutions-2025-08-13.json"
+  },
+  {
+    "date": "2025-05-14",
+    "colors": [
+      "#243D83",
+      "#5AA4B7"
+    ],
+    "file": "solutions-2025-05-14.json"
+  },
   { "date": "2025-09-03", "colors": [], "file": "solutions-2025-09-03.json" },
   { "date": "2025-09-04", "colors": [], "file": "solutions-2025-09-04.json" },
   { "date": "2025-09-05", "colors": [], "file": "solutions-2025-09-05.json" },
