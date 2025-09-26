@@ -3043,5 +3043,27 @@
       "#6E3C3C"
     ],
     "file": "solutions-2025-07-27.json"
-  }
+  },
+ 
+  { "date": "2025-09-03", "colors": [], "file": "solutions-2025-09-03.json" },
+  { "date": "2025-09-04", "colors": [], "file": "solutions-2025-09-04.json" },
+  { "date": "2025-09-05", "colors": [], "file": "solutions-2025-09-05.json" },
+  { "date": "2025-09-06", "colors": [], "file": "solutions-2025-09-06.json" },
+  { "date": "2025-09-07", "colors": [], "file": "solutions-2025-09-07.json" },
+  { "date": "2025-09-08", "colors": [], "file": "solutions-2025-09-08.json" },
+  { "date": "2025-09-09", "colors": [], "file": "solutions-2025-09-09.json" },
+  { "date": "2025-09-10", "colors": [], "file": "solutions-2025-09-10.json" },
+  { "date": "2025-09-11", "colors": [], "file": "solutions-2025-09-11.json" },
+  { "date": "2025-09-12", "colors": [], "file": "solutions-2025-09-12.json" },
+  { "date": "2025-09-13", "colors": [], "file": "solutions-2025-09-13.json" },
+  { "date": "2025-09-14", "colors": [], "file": "solutions-2025-09-14.json" },
+  { "date": "2025-09-15", "colors": [], "file": "solutions-2025-09-15.json" },
+  { "date": "2025-09-16", "colors": [], "file": "solutions-2025-09-16.json" },
+  { "date": "2025-09-17", "colors": [], "file": "solutions-2025-09-17.json" },
+  { "date": "2025-09-18", "colors": [], "file": "solutions-2025-09-18.json" },
+  { "date": "2025-09-19", "colors": [], "file": "solutions-2025-09-19.json" },
+  { "date": "2025-09-23", "colors": [], "file": "solutions-2025-09-23.json" },
+  { "date": "2025-09-24", "colors": [], "file": "solutions-2025-09-24.json" },
+  { "date": "2025-09-25", "colors": [], "file": "solutions-2025-09-25.json" }
+ 
 ]
