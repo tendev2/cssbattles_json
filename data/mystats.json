@@ -1468,8 +1468,8 @@
       "target": "210",
       "image": "210.png",
       "matchStatus": "✅",
-      "score": "669.25",
-      "chars": "184"
+      "score": "674.74",
+      "chars": "176"
     },
     {
       "target": "211",
@@ -1692,9 +1692,9 @@
       "target": "242",
       "image": "242.png",
       "matchStatus": "🔴 99.9%",
-      "score": "597.48",
-      "chars": "358"
+      "score": "597.5",
+      "chars": "350"
     }
   ],
-  "lastUpdated": "2025-09-09T20:17:55.994Z"
+  "lastUpdated": "2025-09-27T18:32:13.194Z"
 }
