@@ -3311,5 +3311,13 @@
       "#3F595E"
     ],
     "file": "solutions-2025-09-30.json"
+  },
+  {
+    "date": "2025-10-01",
+    "colors": [
+      "#3F4869",
+      "#E25C57"
+    ],
+    "file": "solutions-2025-10-01.json"
   }
 ]
