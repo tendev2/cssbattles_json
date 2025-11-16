@@ -3673,5 +3673,14 @@
       "#F0CD48"
     ],
     "file": "solutions-2025-11-14.json"
+  },
+  {
+    "date": "2025-11-15",
+    "colors": [
+      "#FAD98C",
+      "#89B3EC",
+      "#2A2828"
+    ],
+    "file": "solutions-2025-11-15.json"
   }
 ]
