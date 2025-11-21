@@ -3714,5 +3714,14 @@
       "#FFFFFF"
     ],
     "file": "solutions-2025-11-19.json"
+  },
+  {
+    "date": "2025-11-20",
+    "colors": [
+      "#EED9D9",
+      "#668884",
+      "#C67455"
+    ],
+    "file": "solutions-2025-11-20.json"
   }
 ]
