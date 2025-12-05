@@ -3825,5 +3825,14 @@
       "#EEEEEE"
     ],
     "file": "solutions-2025-12-03.json"
+  },
+  {
+    "date": "2025-12-04",
+    "colors": [
+      "#E8AD6D",
+      "#2F5A76",
+      "#DE6B67"
+    ],
+    "file": "solutions-2025-12-04.json"
   }
 ]
