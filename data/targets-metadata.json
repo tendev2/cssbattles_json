@@ -3834,5 +3834,14 @@
       "#DE6B67"
     ],
     "file": "solutions-2025-12-04.json"
+  },
+  {
+    "date": "2025-12-05",
+    "colors": [
+      "#32955E",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "file": "solutions-2025-12-05.json"
   }
 ]
