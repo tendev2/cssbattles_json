@@ -4060,5 +4060,14 @@
       "#F9DDC6"
     ],
     "file": "solutions-2025-12-31.json"
+  },
+  {
+    "date": "2026-01-01",
+    "colors": [
+      "#F7CB71",
+      "#7C3219",
+      "#8B4524"
+    ],
+    "file": "solutions-2026-01-01.json"
   }
 ]
