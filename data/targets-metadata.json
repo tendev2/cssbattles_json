@@ -4077,5 +4077,13 @@
       "#FAE29E"
     ],
     "file": "solutions-2026-01-02.json"
+  },
+  {
+    "date": "2026-01-03",
+    "colors": [
+      "#84B9C7",
+      "#ECEBEB"
+    ],
+    "file": "solutions-2026-01-03.json"
   }
 ]
