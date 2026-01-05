@@ -4085,5 +4085,14 @@
       "#ECEBEB"
     ],
     "file": "solutions-2026-01-03.json"
+  },
+  {
+    "date": "2026-01-04",
+    "colors": [
+      "#4C455B",
+      "#8AB8B6",
+      "#F3EAD2"
+    ],
+    "file": "solutions-2026-01-04.json"
   }
 ]
