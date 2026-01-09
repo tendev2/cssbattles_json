@@ -4119,5 +4119,14 @@
       "#CF6939"
     ],
     "file": "solutions-2026-01-07.json"
+  },
+  {
+    "date": "2026-01-08",
+    "colors": [
+      "#F2EAA8",
+      "#EE7667",
+      "#84BE8D"
+    ],
+    "file": "solutions-2026-01-08.json"
   }
 ]
