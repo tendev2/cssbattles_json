@@ -4144,5 +4144,14 @@
       "#E25C57"
     ],
     "file": "solutions-2026-01-10.json"
+  },
+  {
+    "date": "2026-01-11",
+    "colors": [
+      "#5AA4B7",
+      "#F9EAF1",
+      "#4C455B"
+    ],
+    "file": "solutions-2026-01-11.json"
   }
 ]
