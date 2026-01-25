@@ -4254,5 +4254,14 @@
       "#F4DA64"
     ],
     "file": "solutions-2026-01-23.json"
+  },
+  {
+    "date": "2026-01-24",
+    "colors": [
+      "#37B4BD",
+      "#F9EAF1",
+      "#394257"
+    ],
+    "file": "solutions-2026-01-24.json"
   }
 ]
