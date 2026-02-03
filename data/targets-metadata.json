@@ -4329,5 +4329,13 @@
       "#DE9473"
     ],
     "file": "solutions-2026-02-01.json"
+  },
+  {
+    "date": "2026-02-02",
+    "colors": [
+      "#2B2A4A",
+      "#BA463E"
+    ],
+    "file": "solutions-2026-02-02.json"
   }
 ]
