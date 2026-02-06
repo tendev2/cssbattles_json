@@ -4353,5 +4353,13 @@
       "#FFFFFF"
     ],
     "file": "solutions-2026-02-04.json"
+  },
+  {
+    "date": "2026-02-05",
+    "colors": [
+      "#3F4869",
+      "#E25C57"
+    ],
+    "file": "solutions-2026-02-05.json"
   }
 ]
