@@ -4411,5 +4411,13 @@
       "#FFFFFF"
     ],
     "file": "solutions-2026-02-11.json"
+  },
+  {
+    "date": "2026-02-12",
+    "colors": [
+      "#7060C0",
+      "#B6EBE7"
+    ],
+    "file": "solutions-2026-02-12.json"
   }
 ]
