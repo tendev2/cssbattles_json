@@ -4427,5 +4427,14 @@
       "#0098D1"
     ],
     "file": "solutions-2026-02-13.json"
+  },
+  {
+    "date": "2026-02-14",
+    "colors": [
+      "#FFF9F1",
+      "#FF5C21",
+      "#2869FE"
+    ],
+    "file": "solutions-2026-02-14.json"
   }
 ]
